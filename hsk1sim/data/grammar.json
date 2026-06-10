@@ -1,0 +1,770 @@
+[
+  {
+    "q": "我 （ ____ ） 学生。",
+    "a": "是",
+    "d": [
+      "有",
+      "在"
+    ],
+    "pt_it": "Verbo 是 (essere): A 是 B",
+    "pt_en": "Verb 是 (to be): A 是 B",
+    "it": "Io sono uno studente.",
+    "en": "I am a student."
+  },
+  {
+    "q": "这 （ ____ ） 我的电视。",
+    "a": "是",
+    "d": [
+      "在",
+      "有"
+    ],
+    "pt_it": "Verbo 是 per identificare: 这是…",
+    "pt_en": "是 for identity: 这是…",
+    "it": "Questo è la mia TV.",
+    "en": "This is my TV."
+  },
+  {
+    "q": "桌子上 （ ____ ） 三本书。",
+    "a": "有",
+    "d": [
+      "是",
+      "在"
+    ],
+    "pt_it": "有 per l'esistenza: luogo + 有 + cosa",
+    "pt_en": "有 for existence: place + 有 + thing",
+    "it": "Sul tavolo ci sono tre libri.",
+    "en": "There are three books on the table."
+  },
+  {
+    "q": "我家 （ ____ ） 一只猫。",
+    "a": "有",
+    "d": [
+      "是",
+      "会"
+    ],
+    "pt_it": "有 per il possesso: avere",
+    "pt_en": "有 for possession: to have",
+    "it": "A casa ho un gatto.",
+    "en": "I have a cat at home."
+  },
+  {
+    "q": "他 （ ____ ） 学校。",
+    "a": "在",
+    "d": [
+      "是",
+      "有"
+    ],
+    "pt_it": "在 per il luogo: persona + 在 + luogo",
+    "pt_en": "在 for location: person + 在 + place",
+    "it": "Lui è a scuola.",
+    "en": "He is at school."
+  },
+  {
+    "q": "今天天气 （ ____ ） 好。",
+    "a": "很",
+    "d": [
+      "是",
+      "在"
+    ],
+    "pt_it": "Predicato aggettivale con 很 (non con 是)",
+    "pt_en": "Adjectival predicate uses 很 (not 是)",
+    "it": "Oggi il tempo è bello.",
+    "en": "The weather is nice today."
+  },
+  {
+    "q": "这个苹果 （ ____ ） 好吃。",
+    "a": "很",
+    "d": [
+      "是",
+      "有"
+    ],
+    "pt_it": "Aggettivo predicativo: 很 + aggettivo",
+    "pt_en": "Predicative adjective: 很 + adjective",
+    "it": "Questa mela è molto buona.",
+    "en": "This apple is very tasty."
+  },
+  {
+    "q": "这里 （ ____ ） 冷了。",
+    "a": "太",
+    "d": [
+      "很",
+      "都"
+    ],
+    "pt_it": "Struttura 太…了 (troppo…)",
+    "pt_en": "太…了 structure (too…)",
+    "it": "Qui fa troppo freddo.",
+    "en": "It's too cold here."
+  },
+  {
+    "q": "我 （ ____ ） 是老师。",
+    "a": "不",
+    "d": [
+      "没",
+      "很"
+    ],
+    "pt_it": "Negazione con 不 (verbi e aggettivi)",
+    "pt_en": "Negation with 不 (verbs/adjectives)",
+    "it": "Non sono un insegnante.",
+    "en": "I am not a teacher."
+  },
+  {
+    "q": "我 （ ____ ） 喜欢喝茶。",
+    "a": "不",
+    "d": [
+      "没",
+      "太"
+    ],
+    "pt_it": "不 nega verbi come 喜欢/想/是",
+    "pt_en": "不 negates verbs like 喜欢/想/是",
+    "it": "Non mi piace bere il tè.",
+    "en": "I don't like to drink tea."
+  },
+  {
+    "q": "我 （ ____ ） 有钱。",
+    "a": "没",
+    "d": [
+      "不",
+      "很"
+    ],
+    "pt_it": "Negazione con 没: nega 有",
+    "pt_en": "Negation with 没: negates 有",
+    "it": "Non ho soldi.",
+    "en": "I have no money."
+  },
+  {
+    "q": "你是中国人 （ ____ ） ？",
+    "a": "吗",
+    "d": [
+      "呢",
+      "了"
+    ],
+    "pt_it": "Domanda sì/no con la particella 吗",
+    "pt_en": "Yes/no question with particle 吗",
+    "it": "Sei cinese?",
+    "en": "Are you Chinese?"
+  },
+  {
+    "q": "我很好，你 （ ____ ） ？",
+    "a": "呢",
+    "d": [
+      "吗",
+      "了"
+    ],
+    "pt_it": "Particella 呢: 'e tu?' (rilancio)",
+    "pt_en": "Particle 呢: 'and you?' (follow-up)",
+    "it": "Sto bene, e tu?",
+    "en": "I'm fine, and you?"
+  },
+  {
+    "q": "这是 （ ____ ） ？",
+    "a": "什么",
+    "d": [
+      "谁",
+      "几"
+    ],
+    "pt_it": "Parola interrogativa 什么 (che cosa)",
+    "pt_en": "Question word 什么 (what)",
+    "it": "Cos'è questo?",
+    "en": "What is this?"
+  },
+  {
+    "q": "（ ____ ） 是你的老师？",
+    "a": "谁",
+    "d": [
+      "什么",
+      "几"
+    ],
+    "pt_it": "Parola interrogativa 谁 (chi)",
+    "pt_en": "Question word 谁 (who)",
+    "it": "Chi è il tuo insegnante?",
+    "en": "Who is your teacher?"
+  },
+  {
+    "q": "你家有 （ ____ ） 个人？",
+    "a": "几",
+    "d": [
+      "多少",
+      "什么"
+    ],
+    "pt_it": "几 per chiedere numeri piccoli (+ classificatore)",
+    "pt_en": "几 for small numbers (+ measure word)",
+    "it": "Quante persone ci sono nella tua famiglia?",
+    "en": "How many people are in your family?"
+  },
+  {
+    "q": "这本书 （ ____ ） 钱？",
+    "a": "多少",
+    "d": [
+      "几",
+      "谁"
+    ],
+    "pt_it": "多少 per chiedere quantità/prezzo (多少钱)",
+    "pt_en": "多少 for amounts/price (多少钱)",
+    "it": "Quanto costa questo libro?",
+    "en": "How much is this book?"
+  },
+  {
+    "q": "这是我 （ ____ ） 书。",
+    "a": "的",
+    "d": [
+      "了",
+      "吗"
+    ],
+    "pt_it": "Particella 的: possesso (我的书)",
+    "pt_en": "Particle 的: possession (我的书)",
+    "it": "Questo è il mio libro.",
+    "en": "This is my book."
+  },
+  {
+    "q": "他是我 （ ____ ） 朋友。",
+    "a": "的",
+    "d": [
+      "在",
+      "和"
+    ],
+    "pt_it": "的 lega il possessore al nome",
+    "pt_en": "的 links possessor to noun",
+    "it": "Lui è il mio amico.",
+    "en": "He is my friend."
+  },
+  {
+    "q": "我有两 （ ____ ） 书。",
+    "a": "本",
+    "d": [
+      "个",
+      "块"
+    ],
+    "pt_it": "Classificatore 本 per i libri",
+    "pt_en": "Measure word 本 for books",
+    "it": "Ho due libri.",
+    "en": "I have two books."
+  },
+  {
+    "q": "桌子上有三 （ ____ ） 苹果。",
+    "a": "个",
+    "d": [
+      "本",
+      "块"
+    ],
+    "pt_it": "Classificatore generico 个",
+    "pt_en": "General measure word 个",
+    "it": "Sul tavolo ci sono tre mele.",
+    "en": "There are three apples on the table."
+  },
+  {
+    "q": "他今年二十 （ ____ ） 。",
+    "a": "岁",
+    "d": [
+      "个",
+      "点"
+    ],
+    "pt_it": "岁 per l'età (二十岁)",
+    "pt_en": "岁 for age (二十岁)",
+    "it": "Quest'anno ha vent'anni.",
+    "en": "He is twenty years old this year."
+  },
+  {
+    "q": "我 （ ____ ） 说一点儿汉语。",
+    "a": "会",
+    "d": [
+      "是",
+      "的"
+    ],
+    "pt_it": "Verbo modale 会: saper fare (abilità appresa)",
+    "pt_en": "Modal 会: learned ability",
+    "it": "So parlare un po' di cinese.",
+    "en": "I can speak a little Chinese."
+  },
+  {
+    "q": "你 （ ____ ） 帮我吗？",
+    "a": "能",
+    "d": [
+      "是",
+      "了"
+    ],
+    "pt_it": "Verbo modale 能: essere in grado/poter",
+    "pt_en": "Modal 能: be able to",
+    "it": "Puoi aiutarmi?",
+    "en": "Can you help me?"
+  },
+  {
+    "q": "我 （ ____ ） 喝茶。",
+    "a": "想",
+    "d": [
+      "是",
+      "的"
+    ],
+    "pt_it": "Verbo modale 想: volere/desiderare",
+    "pt_en": "Modal 想: to want",
+    "it": "Voglio bere il tè.",
+    "en": "I want to drink tea."
+  },
+  {
+    "q": "妈妈买 （ ____ ） 很多水果。",
+    "a": "了",
+    "d": [
+      "的",
+      "吗"
+    ],
+    "pt_it": "Particella 了: azione compiuta",
+    "pt_en": "Particle 了: completed action",
+    "it": "La mamma ha comprato molta frutta.",
+    "en": "Mom bought a lot of fruit."
+  },
+  {
+    "q": "外面下雨 （ ____ ） 。",
+    "a": "了",
+    "d": [
+      "吗",
+      "呢"
+    ],
+    "pt_it": "了 di cambiamento di stato (ora piove)",
+    "pt_en": "了 change of state (it's raining now)",
+    "it": "Fuori si è messo a piovere.",
+    "en": "It has started raining outside."
+  },
+  {
+    "q": "我们 （ ____ ） 是学生。",
+    "a": "都",
+    "d": [
+      "很",
+      "太"
+    ],
+    "pt_it": "Avverbio 都 (tutti): soggetto plurale + 都",
+    "pt_en": "Adverb 都 (all): plural subject + 都",
+    "it": "Noi siamo tutti studenti.",
+    "en": "We are all students."
+  },
+  {
+    "q": "爸爸 （ ____ ） 妈妈都在家。",
+    "a": "和",
+    "d": [
+      "都",
+      "的"
+    ],
+    "pt_it": "和 congiunzione tra nomi (A 和 B)",
+    "pt_en": "和 conjunction between nouns (A 和 B)",
+    "it": "Papà e mamma sono a casa.",
+    "en": "Dad and mom are both at home."
+  },
+  {
+    "q": "弟弟 （ ____ ） 睡觉。",
+    "a": "在",
+    "d": [
+      "是",
+      "的"
+    ],
+    "pt_it": "在 + verbo: azione in corso (progressivo)",
+    "pt_en": "在 + verb: ongoing action (progressive)",
+    "it": "Il fratellino sta dormendo.",
+    "en": "Little brother is sleeping."
+  },
+  {
+    "q": "他 （ ____ ） 打电话。",
+    "a": "在",
+    "d": [
+      "了",
+      "的"
+    ],
+    "pt_it": "在 + verbo per l'azione in corso",
+    "pt_en": "在 + verb for ongoing action",
+    "it": "Sta telefonando.",
+    "en": "He is making a phone call."
+  },
+  {
+    "q": "苹果在桌子 （ ____ ） 。",
+    "a": "上",
+    "d": [
+      "里",
+      "下"
+    ],
+    "pt_it": "Nome di posizione 上 (sopra): 在…上",
+    "pt_en": "Location noun 上 (on): 在…上",
+    "it": "La mela è sul tavolo.",
+    "en": "The apple is on the table."
+  },
+  {
+    "q": "猫在家 （ ____ ） 。",
+    "a": "里",
+    "d": [
+      "上",
+      "和"
+    ],
+    "pt_it": "Nome di posizione 里 (dentro): 在…里",
+    "pt_en": "Location noun 里 (inside): 在…里",
+    "it": "Il gatto è in casa.",
+    "en": "The cat is in the room."
+  },
+  {
+    "q": "现在三 （ ____ ） 。",
+    "a": "点",
+    "d": [
+      "岁",
+      "个"
+    ],
+    "pt_it": "点 per indicare l'ora (三点)",
+    "pt_en": "点 for telling time (三点)",
+    "it": "Adesso sono le tre.",
+    "en": "It's three o'clock now."
+  },
+  {
+    "q": "我 （ ____ ） 看电视。",
+    "a": "喜欢",
+    "d": [
+      "是",
+      "在"
+    ],
+    "pt_it": "喜欢 + verbo: 喜欢 + azione",
+    "pt_en": "喜欢 + verb: like doing something",
+    "it": "Mi piace guardare la TV.",
+    "en": "I like watching TV."
+  },
+  {
+    "q": "（ ____ ） 坐这把椅子。",
+    "a": "请",
+    "d": [
+      "很",
+      "太"
+    ],
+    "pt_it": "请 + verbo: forma di cortesia (per favore)",
+    "pt_en": "请 + verb: polite request (please)",
+    "it": "Si sieda su questa sedia, prego.",
+    "en": "Please sit on this chair."
+  },
+  {
+    "q": "你叫什么 （ ____ ） ？",
+    "a": "名字",
+    "d": [
+      "汉语",
+      "年"
+    ],
+    "pt_it": "Lessico: 名字 (nome)",
+    "pt_en": "Vocabulary: name",
+    "it": "Come ti chiami?",
+    "en": "What is your name?"
+  },
+  {
+    "q": "有人在 （ ____ ） 书。",
+    "a": "读",
+    "d": [
+      "坐",
+      "买"
+    ],
+    "pt_it": "Lessico: 读 (leggere)",
+    "pt_en": "Vocabulary: to read",
+    "it": "Qualcuno sta leggendo un libro.",
+    "en": "Someone is reading a book."
+  },
+  {
+    "q": "他学习汉语一 （ ____ ） 了。",
+    "a": "年",
+    "d": [
+      "个",
+      "点"
+    ],
+    "pt_it": "Durata: 年 (anno)",
+    "pt_en": "Duration: year",
+    "it": "Studia cinese da un anno.",
+    "en": "He has studied Chinese for a year."
+  },
+  {
+    "q": "这件衣服很 （ ____ ） 。",
+    "a": "漂亮",
+    "d": [
+      "高兴",
+      "热"
+    ],
+    "pt_it": "Aggettivo adatto al contesto",
+    "pt_en": "Context-appropriate adjective",
+    "it": "Questo vestito è molto bello.",
+    "en": "These clothes are very pretty."
+  },
+  {
+    "q": "饭馆在火车站 （ ____ ） 。",
+    "a": "前面",
+    "d": [
+      "年",
+      "坐"
+    ],
+    "pt_it": "Nome di posizione: 前面",
+    "pt_en": "Location word: in front",
+    "it": "Il ristorante è davanti alla stazione.",
+    "en": "The restaurant is in front of the station."
+  },
+  {
+    "q": "你会说 （ ____ ） 吗？",
+    "a": "汉语",
+    "d": [
+      "名字",
+      "年"
+    ],
+    "pt_it": "Lessico: 汉语 (cinese)",
+    "pt_en": "Vocabulary: Chinese",
+    "it": "Sai parlare cinese?",
+    "en": "Can you speak Chinese?"
+  },
+  {
+    "q": "昨天是八 （ ____ ） 十九日。",
+    "a": "月",
+    "d": [
+      "年",
+      "点"
+    ],
+    "pt_it": "Data: 月 (mese)",
+    "pt_en": "Date: month",
+    "it": "Ieri era il 19 agosto.",
+    "en": "Yesterday was August 19."
+  },
+  {
+    "q": "这是我的 （ ____ ） 。",
+    "a": "朋友",
+    "d": [
+      "坐",
+      "读"
+    ],
+    "pt_it": "Lessico: 朋友",
+    "pt_en": "Vocabulary: friend",
+    "it": "Questo è il mio amico.",
+    "en": "This is my friend."
+  },
+  {
+    "q": "王先生在吗？在，请 （ ____ ） 。",
+    "a": "坐",
+    "d": [
+      "看",
+      "买"
+    ],
+    "pt_it": "Cortesia: 请坐",
+    "pt_en": "Polite: please sit",
+    "it": "Il signor Wang cè? Sì, si accomodi.",
+    "en": "Is Mr. Wang here? Yes, please sit."
+  },
+  {
+    "q": "对不起，我不会做饭。 （ ____ ） ，我会。",
+    "a": "没关系",
+    "d": [
+      "谢谢",
+      "再见"
+    ],
+    "pt_it": "Espressione: 没关系",
+    "pt_en": "Expression: no problem",
+    "it": "Scusa, non so cucinare. Non fa niente, lo faccio io.",
+    "en": "Sorry, I cannot cook. No problem, I can."
+  },
+  {
+    "q": "我有两个朋友，他们 （ ____ ） 是学生。",
+    "a": "都",
+    "d": [
+      "很",
+      "在"
+    ],
+    "pt_it": "Avverbio 都 (tutti) in frase composta",
+    "pt_en": "Adverb 都 (all), compound sentence",
+    "it": "Ho due amici, sono entrambi studenti.",
+    "en": "I have two friends, they are both students."
+  },
+  {
+    "q": "这是我昨天买 （ ____ ） 书。",
+    "a": "的",
+    "d": [
+      "了",
+      "在"
+    ],
+    "pt_it": "Struttura 是…的 / 的 attributivo",
+    "pt_en": "是…的 / attributive 的",
+    "it": "Questo è il libro che ho comprato ieri.",
+    "en": "This is the book I bought yesterday."
+  },
+  {
+    "q": "他不在家，他 （ ____ ） 学校了。",
+    "a": "去",
+    "d": [
+      "是",
+      "在"
+    ],
+    "pt_it": "Verbo 去 + luogo",
+    "pt_en": "Verb 去 + place",
+    "it": "Non è a casa, è andato a scuola.",
+    "en": "He is not home, he went to school."
+  },
+  {
+    "q": "下午我想去商店， （ ____ ） 一些水果。",
+    "a": "买",
+    "d": [
+      "坐",
+      "看"
+    ],
+    "pt_it": "Verbo 买 in frase composta",
+    "pt_en": "Verb 买 in a compound sentence",
+    "it": "Nel pomeriggio voglio andare al negozio a comprare frutta.",
+    "en": "In the afternoon I want to go to the shop to buy fruit."
+  },
+  {
+    "q": "今天天气太 （ ____ ） 了。",
+    "a": "热",
+    "d": [
+      "多",
+      "大"
+    ],
+    "pt_it": "Struttura 太…了 + aggettivo",
+    "pt_en": "太…了 + adjective",
+    "it": "Oggi fa troppo caldo.",
+    "en": "It is too hot today."
+  },
+  {
+    "q": "他在医院工作，他是 （ ____ ） 。",
+    "a": "医生",
+    "d": [
+      "学生",
+      "老师"
+    ],
+    "pt_it": "Lessico: 医生",
+    "pt_en": "Vocabulary: doctor",
+    "it": "Lavora in ospedale, è un medico.",
+    "en": "He works at a hospital, he is a doctor."
+  },
+  {
+    "q": "我在商店买 （ ____ ） 。",
+    "a": "衣服",
+    "d": [
+      "医院",
+      "学校"
+    ],
+    "pt_it": "Lessico: 衣服 (vestiti)",
+    "pt_en": "Vocabulary: clothes",
+    "it": "Compro vestiti al negozio.",
+    "en": "I buy clothes at the shop."
+  },
+  {
+    "q": "我们学校有很多 （ ____ ） 。",
+    "a": "学生",
+    "d": [
+      "医生",
+      "名字"
+    ],
+    "pt_it": "Lessico: 学生",
+    "pt_en": "Vocabulary: students",
+    "it": "La nostra scuola ha molti studenti.",
+    "en": "Our school has many students."
+  },
+  {
+    "q": "他喜欢 （ ____ ） 中国菜。",
+    "a": "吃",
+    "d": [
+      "看",
+      "坐"
+    ],
+    "pt_it": "Verbo 吃 in contesto",
+    "pt_en": "Verb 吃 in context",
+    "it": "Gli piace mangiare cucina cinese.",
+    "en": "He likes to eat Chinese food."
+  },
+  {
+    "q": "妈妈在家 （ ____ ） 饭。",
+    "a": "做",
+    "d": [
+      "买",
+      "读"
+    ],
+    "pt_it": "Verbo 做 (做饭)",
+    "pt_en": "Verb 做 (to cook)",
+    "it": "La mamma cucina a casa.",
+    "en": "Mom cooks at home."
+  },
+  {
+    "q": "他是我的好 （ ____ ） 。",
+    "a": "朋友",
+    "d": [
+      "天气",
+      "衣服"
+    ],
+    "pt_it": "Lessico: 朋友",
+    "pt_en": "Vocabulary: friend",
+    "it": "È il mio caro amico.",
+    "en": "He is my good friend."
+  },
+  {
+    "q": "下午我想去 （ ____ ） 看朋友。",
+    "a": "医院",
+    "d": [
+      "飞机",
+      "衣服"
+    ],
+    "pt_it": "Luogo in frase composta",
+    "pt_en": "Place in compound sentence",
+    "it": "Nel pomeriggio voglio andare in ospedale a trovare un amico.",
+    "en": "In the afternoon I want to visit a friend at the hospital."
+  },
+  {
+    "q": "我朋友在北京 （ ____ ） 。",
+    "a": "工作",
+    "d": [
+      "学校",
+      "商店"
+    ],
+    "pt_it": "Verbo 工作 + luogo",
+    "pt_en": "Verb 工作 + place",
+    "it": "Il mio amico lavora a Pechino.",
+    "en": "My friend works in Beijing."
+  },
+  {
+    "q": "这些衣服很 （ ____ ） 。",
+    "a": "漂亮",
+    "d": [
+      "高兴",
+      "冷"
+    ],
+    "pt_it": "Aggettivo adatto al contesto",
+    "pt_en": "Context adjective",
+    "it": "Questi vestiti sono molto belli.",
+    "en": "These clothes are very pretty."
+  },
+  {
+    "q": "妈妈给我买了一 （ ____ ） 书。",
+    "a": "本",
+    "d": [
+      "杯",
+      "岁"
+    ],
+    "pt_it": "Classificatore 本 (frase con 了)",
+    "pt_en": "Measure 本 (with 了)",
+    "it": "La mamma mi ha comprato un libro.",
+    "en": "Mom bought me a book."
+  },
+  {
+    "q": "你好！你是学生 （ ____ ） ？是，我是学生。",
+    "a": "吗",
+    "d": [
+      "呢",
+      "了"
+    ],
+    "pt_it": "Domanda con 吗 (dialogo)",
+    "pt_en": "吗 question (dialogue)",
+    "it": "Ciao! Sei uno studente? Sì, lo sono.",
+    "en": "Hi! Are you a student? Yes, I am."
+  },
+  {
+    "q": "我没看见你的 （ ____ ） ，它在哪儿？",
+    "a": "书",
+    "d": [
+      "钱",
+      "猫"
+    ],
+    "pt_it": "Lessico in frase composta",
+    "pt_en": "Vocabulary in compound sentence",
+    "it": "Non vedo il tuo libro, dov'è?",
+    "en": "I don't see your book, where is it?"
+  },
+  {
+    "q": "他买了新衣服，他很 （ ____ ） 。",
+    "a": "高兴",
+    "d": [
+      "漂亮",
+      "冷"
+    ],
+    "pt_it": "Aggettivo di stato (frase composta)",
+    "pt_en": "State adjective (compound)",
+    "it": "Ha comprato vestiti nuovi, è contento.",
+    "en": "He bought new clothes, he is happy."
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "q": "你好吗？",
+    "a": "我很好，谢谢。",
+    "q_it": "Come stai?",
+    "q_en": "How are you?",
+    "a_it": "Sto bene, grazie.",
+    "a_en": "I'm fine, thanks.",
+    "emoji": null
+  },
+  {
+    "q": "你叫什么名字？",
+    "a": "我叫王明。",
+    "q_it": "Come ti chiami?",
+    "q_en": "What's your name?",
+    "a_it": "Mi chiamo Wang Ming.",
+    "a_en": "My name is Wang Ming.",
+    "emoji": null
+  },
+  {
+    "q": "你是哪国人？",
+    "a": "我是中国人。",
+    "q_it": "Di che paese sei?",
+    "q_en": "What country are you from?",
+    "a_it": "Sono cinese.",
+    "a_en": "I'm Chinese.",
+    "emoji": "🇨🇳",
+    "key": "中国"
+  },
+  {
+    "q": "现在几点？",
+    "a": "现在三点。",
+    "q_it": "Che ore sono?",
+    "q_en": "What time is it?",
+    "a_it": "Sono le tre.",
+    "a_en": "It's three o'clock.",
+    "emoji": "🕐",
+    "key": "点"
+  },
+  {
+    "q": "你今年多大？",
+    "a": "我今年二十岁。",
+    "q_it": "Quanti anni hai?",
+    "q_en": "How old are you?",
+    "a_it": "Ho vent'anni.",
+    "a_en": "I'm twenty years old.",
+    "emoji": null
+  },
+  {
+    "q": "你喜欢吃什么？",
+    "a": "我喜欢吃米饭。",
+    "q_it": "Cosa ti piace mangiare?",
+    "q_en": "What do you like to eat?",
+    "a_it": "Mi piace il riso.",
+    "a_en": "I like rice.",
+    "emoji": "🐟"
+  },
+  {
+    "q": "这是什么？",
+    "a": "这是一本书。",
+    "q_it": "Cos'è questo?",
+    "q_en": "What is this?",
+    "a_it": "Questo è un libro.",
+    "a_en": "This is a book.",
+    "emoji": "📕",
+    "key": "书"
+  },
+  {
+    "q": "你家有几个人？",
+    "a": "我家有四个人。",
+    "q_it": "Quante persone ci sono nella tua famiglia?",
+    "q_en": "How many people are in your family?",
+    "a_it": "Nella mia famiglia siamo in quattro.",
+    "a_en": "There are four people in my family.",
+    "emoji": null
+  },
+  {
+    "q": "你去哪儿？",
+    "a": "我去学校。",
+    "q_it": "Dove vai?",
+    "q_en": "Where are you going?",
+    "a_it": "Vado a scuola.",
+    "a_en": "I'm going to school.",
+    "emoji": "🏫",
+    "key": "学校"
+  },
+  {
+    "q": "你会说汉语吗？",
+    "a": "我会说一点儿。",
+    "q_it": "Sai parlare cinese?",
+    "q_en": "Can you speak Chinese?",
+    "a_it": "So parlarne un po'.",
+    "a_en": "I can speak a little.",
+    "emoji": "💬"
+  },
+  {
+    "q": "今天星期几？",
+    "a": "今天星期一。",
+    "q_it": "Che giorno è oggi?",
+    "q_en": "What day is it today?",
+    "a_it": "Oggi è lunedì.",
+    "a_en": "Today is Monday.",
+    "emoji": null
+  },
+  {
+    "q": "这个多少钱？",
+    "a": "二十块。",
+    "q_it": "Quanto costa questo?",
+    "q_en": "How much is this?",
+    "a_it": "Venti yuan.",
+    "a_en": "Twenty yuan.",
+    "emoji": "💵",
+    "key": "钱"
+  },
+  {
+    "q": "你妈妈在哪儿？",
+    "a": "她在家。",
+    "q_it": "Dov'è tua madre?",
+    "q_en": "Where is your mom?",
+    "a_it": "È a casa.",
+    "a_en": "She is at home.",
+    "emoji": "🏠",
+    "key": "家"
+  },
+  {
+    "q": "你喝茶还是喝咖啡？",
+    "a": "我喝茶。",
+    "q_it": "Bevi tè o caffè?",
+    "q_en": "Do you drink tea or coffee?",
+    "a_it": "Bevo tè.",
+    "a_en": "I drink tea.",
+    "emoji": "🍵",
+    "key": "茶"
+  },
+  {
+    "q": "谁是你的老师？",
+    "a": "他是我的老师。",
+    "q_it": "Chi è il tuo insegnante?",
+    "q_en": "Who is your teacher?",
+    "a_it": "Lui è il mio insegnante.",
+    "a_en": "He is my teacher.",
+    "emoji": "👨‍🏫",
+    "key": "老师"
+  },
+  {
+    "q": "你怎么去北京？",
+    "a": "我坐飞机去。",
+    "q_it": "Come vai a Pechino?",
+    "q_en": "How do you go to Beijing?",
+    "a_it": "Ci vado in aereo.",
+    "a_en": "I go by plane.",
+    "emoji": "✈️",
+    "key": "飞机"
+  },
+  {
+    "q": "明天天气怎么样？",
+    "a": "明天有雨。",
+    "q_it": "Che tempo farà domani?",
+    "q_en": "How is the weather tomorrow?",
+    "a_it": "Domani pioverà.",
+    "a_en": "It will rain tomorrow.",
+    "emoji": "🌧️",
+    "key": "下雨"
+  },
+  {
+    "q": "你认识他吗？",
+    "a": "认识，他是我朋友。",
+    "q_it": "Lo conosci?",
+    "q_en": "Do you know him?",
+    "a_it": "Sì, è un mio amico.",
+    "a_en": "Yes, he is my friend.",
+    "emoji": null
+  },
+  {
+    "q": "你想买什么？",
+    "a": "我想买衣服。",
+    "q_it": "Cosa vuoi comprare?",
+    "q_en": "What do you want to buy?",
+    "a_it": "Voglio comprare dei vestiti.",
+    "a_en": "I want to buy clothes.",
+    "emoji": "👕",
+    "key": "衣服"
+  },
+  {
+    "q": "你的猫叫什么？",
+    "a": "它叫小白。",
+    "q_it": "Come si chiama il tuo gatto?",
+    "q_en": "What's your cat's name?",
+    "a_it": "Si chiama Xiaobai.",
+    "a_en": "Its name is Xiaobai.",
+    "emoji": "🐱",
+    "key": "猫"
+  },
+  {
+    "q": "你什么时候来？",
+    "a": "我下午来。",
+    "q_it": "Quando vieni?",
+    "q_en": "When are you coming?",
+    "a_it": "Vengo nel pomeriggio.",
+    "a_en": "I'm coming in the afternoon.",
+    "emoji": null
+  },
+  {
+    "q": "苹果在哪儿？",
+    "a": "在桌子上。",
+    "q_it": "Dove sono le mele?",
+    "q_en": "Where are the apples?",
+    "a_it": "Sul tavolo.",
+    "a_en": "On the table.",
+    "emoji": "🍎"
+  },
+  {
+    "q": "你爸爸做什么工作？",
+    "a": "他是医生。",
+    "q_it": "Che lavoro fa tuo padre?",
+    "q_en": "What does your dad do?",
+    "a_it": "È medico.",
+    "a_en": "He is a doctor.",
+    "emoji": "🧑‍⚕️",
+    "key": "医生"
+  },
+  {
+    "q": "你喜欢这个吗？",
+    "a": "喜欢，很漂亮。",
+    "q_it": "Ti piace questo?",
+    "q_en": "Do you like this?",
+    "a_it": "Sì, è molto bello.",
+    "a_en": "Yes, it's very pretty.",
+    "emoji": null
+  },
+  {
+    "q": "你喝什么？",
+    "a": "我喝水。",
+    "q_it": "Cosa bevi?",
+    "q_en": "What do you drink?",
+    "a_it": "Bevo acqua.",
+    "a_en": "I drink water.",
+    "emoji": null,
+    "key": "水"
+  },
+  {
+    "q": "你有几本书？",
+    "a": "我有五本。",
+    "q_it": "Quanti libri hai?",
+    "q_en": "How many books do you have?",
+    "a_it": "Ne ho cinque.",
+    "a_en": "I have five.",
+    "emoji": null,
+    "key": "书"
+  },
+  {
+    "q": "你住在哪儿？",
+    "a": "我住在北京。",
+    "q_it": "Dove abiti?",
+    "q_en": "Where do you live?",
+    "a_it": "Abito a Pechino.",
+    "a_en": "I live in Beijing.",
+    "emoji": null,
+    "key": "中国"
+  },
+  {
+    "q": "你什么时候去？",
+    "a": "我明天去。",
+    "q_it": "Quando vai?",
+    "q_en": "When do you go?",
+    "a_it": "Vado domani.",
+    "a_en": "I go tomorrow.",
+    "emoji": null
+  },
+  {
+    "q": "这是你的椅子吗？",
+    "a": "不是，是他的。",
+    "q_it": "È la tua sedia?",
+    "q_en": "Is this your chair?",
+    "a_it": "No, è la sua.",
+    "a_en": "No, it is his.",
+    "emoji": null
+  },
+  {
+    "q": "你看什么？",
+    "a": "我看电视。",
+    "q_it": "Cosa guardi?",
+    "q_en": "What are you watching?",
+    "a_it": "Guardo la TV.",
+    "a_en": "I watch TV.",
+    "emoji": null,
+    "key": "电视"
+  },
+  {
+    "q": "你想买什么？",
+    "a": "我想买杯子。",
+    "q_it": "Cosa vuoi comprare?",
+    "q_en": "What do you want to buy?",
+    "a_it": "Voglio comprare un bicchiere.",
+    "a_en": "I want to buy a cup.",
+    "emoji": null,
+    "key": "杯子"
+  },
+  {
+    "q": "谁在打电话？",
+    "a": "我妈妈。",
+    "q_it": "Chi sta telefonando?",
+    "q_en": "Who is calling?",
+    "a_it": "Mia madre.",
+    "a_en": "My mom.",
+    "emoji": null,
+    "key": "打电话"
+  },
+  {
+    "q": "你爸爸在哪儿？",
+    "a": "他在工作。",
+    "q_it": "Dovè tuo padre?",
+    "q_en": "Where is your dad?",
+    "a_it": "Sta lavorando.",
+    "a_en": "He is working.",
+    "emoji": null,
+    "key": "工作"
+  },
+  {
+    "q": "今天几号？",
+    "a": "今天五号。",
+    "q_it": "Quanti ne abbiamo oggi?",
+    "q_en": "What is the date today?",
+    "a_it": "Oggi è il cinque.",
+    "a_en": "Today is the fifth.",
+    "emoji": null
+  },
+  {
+    "q": "你怎么样？",
+    "a": "我很好。",
+    "q_it": "Come stai?",
+    "q_en": "How are you?",
+    "a_it": "Sto bene.",
+    "a_en": "I am fine.",
+    "emoji": null
+  },
+  {
+    "q": "你喜欢狗吗？",
+    "a": "我很喜欢。",
+    "q_it": "Ti piacciono i cani?",
+    "q_en": "Do you like dogs?",
+    "a_it": "Mi piacciono molto.",
+    "a_en": "I like them a lot.",
+    "emoji": null
+  },
+  {
+    "q": "这些水果是谁买的？",
+    "a": "我妈妈买的。",
+    "q_it": "Chi ha comprato questa frutta?",
+    "q_en": "Who bought this fruit?",
+    "a_it": "Lha comprata mia mamma.",
+    "a_en": "My mom bought it.",
+    "emoji": null
+  },
+  {
+    "q": "你的老师在哪儿工作？",
+    "a": "在学校。",
+    "q_it": "Dove lavora il tuo insegnante?",
+    "q_en": "Where does your teacher work?",
+    "a_it": "A scuola.",
+    "a_en": "At school.",
+    "emoji": null
+  },
+  {
+    "q": "那个人是谁？",
+    "a": "他是我同学。",
+    "q_it": "Chi è quella persona?",
+    "q_en": "Who is that person?",
+    "a_it": "È un mio compagno.",
+    "a_en": "He is my classmate.",
+    "emoji": null
+  },
+  {
+    "q": "那个杯子多少钱？",
+    "a": "三十块。",
+    "q_it": "Quanto costa quel bicchiere?",
+    "q_en": "How much is that cup?",
+    "a_it": "Trenta yuan.",
+    "a_en": "Thirty yuan.",
+    "emoji": null
+  },
+  {
+    "q": "他女儿今年多大？",
+    "a": "她六岁。",
+    "q_it": "Quanti anni ha sua figlia?",
+    "q_en": "How old is his daughter?",
+    "a_it": "Sei anni.",
+    "a_en": "Six years old.",
+    "emoji": null
+  },
+  {
+    "q": "这是谁的电脑？",
+    "a": "是我的。",
+    "q_it": "Di chi è questo computer?",
+    "q_en": "Whose computer is this?",
+    "a_it": "È mio.",
+    "a_en": "It is mine.",
+    "emoji": null
+  },
+  {
+    "q": "你什么时候去中国？",
+    "a": "下个月去。",
+    "q_it": "Quando vai in Cina?",
+    "q_en": "When are you going to China?",
+    "a_it": "Il mese prossimo.",
+    "a_en": "Next month.",
+    "emoji": null
+  },
+  {
+    "q": "你昨天买什么了？",
+    "a": "我买了衣服。",
+    "q_it": "Cosa hai comprato ieri?",
+    "q_en": "What did you buy yesterday?",
+    "a_it": "Ho comprato dei vestiti.",
+    "a_en": "I bought clothes.",
+    "emoji": null
+  },
+  {
+    "q": "你的朋友是哪国人？",
+    "a": "他是中国人。",
+    "q_it": "Di che paese è il tuo amico?",
+    "q_en": "What country is your friend from?",
+    "a_it": "È cinese.",
+    "a_en": "He is Chinese.",
+    "emoji": null
+  },
+  {
+    "q": "昨天天气怎么样？",
+    "a": "昨天很冷。",
+    "q_it": "Comera il tempo ieri?",
+    "q_en": "How was the weather yesterday?",
+    "a_it": "Faceva freddo.",
+    "a_en": "It was cold.",
+    "emoji": null
+  },
+  {
+    "q": "桌子上的书是谁的？",
+    "a": "是老师的。",
+    "q_it": "Di chi è il libro sul tavolo?",
+    "q_en": "Whose book is on the table?",
+    "a_it": "Dellinsegnante.",
+    "a_en": "The teachers.",
+    "emoji": null
+  },
+  {
+    "q": "你爸爸什么时候回家？",
+    "a": "他晚上回家。",
+    "q_it": "Quando torna a casa tuo padre?",
+    "q_en": "When does your dad come home?",
+    "a_it": "Torna la sera.",
+    "a_en": "He comes home in the evening.",
+    "emoji": null
+  },
+  {
+    "q": "你想看什么？",
+    "a": "我想看电影。",
+    "q_it": "Cosa vuoi vedere?",
+    "q_en": "What do you want to watch?",
+    "a_it": "Voglio vedere un film.",
+    "a_en": "I want to watch a movie.",
+    "emoji": null,
+    "key": "电影"
+  },
+  {
+    "q": "这是谁的电脑？",
+    "a": "是我的电脑。",
+    "q_it": "Di chi è questo computer?",
+    "q_en": "Whose computer is this?",
+    "a_it": "È il mio computer.",
+    "a_en": "It's my computer.",
+    "emoji": null,
+    "key": "电脑"
+  },
+  {
+    "q": "你喜欢什么水果？",
+    "a": "我喜欢苹果。",
+    "q_it": "Quale frutta ti piace?",
+    "q_en": "What fruit do you like?",
+    "a_it": "Mi piacciono le mele.",
+    "a_en": "I like apples.",
+    "emoji": null,
+    "key": "苹果"
+  },
+  {
+    "q": "你早上吃什么？",
+    "a": "我吃米饭。",
+    "q_it": "Cosa mangi la mattina?",
+    "q_en": "What do you eat in the morning?",
+    "a_it": "Mangio riso.",
+    "a_en": "I eat rice.",
+    "emoji": null,
+    "key": "米饭"
+  },
+  {
+    "q": "你冷吗？",
+    "a": "我有点儿冷。",
+    "q_it": "Hai freddo?",
+    "q_en": "Are you cold?",
+    "a_it": "Ho un po' freddo.",
+    "a_en": "I'm a bit cold.",
+    "emoji": null,
+    "key": "冷"
+  },
+  {
+    "q": "今天热吗？",
+    "a": "今天很热。",
+    "q_it": "Fa caldo oggi?",
+    "q_en": "Is it hot today?",
+    "a_it": "Oggi fa molto caldo.",
+    "a_en": "It's very hot today.",
+    "emoji": null,
+    "key": "热"
+  },
+  {
+    "q": "他在做什么？",
+    "a": "他在读书。",
+    "q_it": "Cosa sta facendo?",
+    "q_en": "What is he doing?",
+    "a_it": "Sta leggendo.",
+    "a_en": "He is reading.",
+    "emoji": null,
+    "key": "读"
+  },
+  {
+    "q": "你看见我的猫了吗？",
+    "a": "在椅子上。",
+    "q_it": "Hai visto il mio gatto?",
+    "q_en": "Have you seen my cat?",
+    "a_it": "È sulla sedia.",
+    "a_en": "It's on the chair.",
+    "emoji": null,
+    "key": "猫"
+  },
+  {
+    "q": "那个人是你朋友吗？",
+    "a": "是，他是我朋友。",
+    "q_it": "Quella persona è tuo amico?",
+    "q_en": "Is that person your friend?",
+    "a_it": "Sì, è un mio amico.",
+    "a_en": "Yes, he is my friend.",
+    "emoji": null,
+    "key": "朋友"
+  },
+  {
+    "q": "你儿子几岁了？",
+    "a": "他三岁了。",
+    "q_it": "Quanti anni ha tuo figlio?",
+    "q_en": "How old is your son?",
+    "a_it": "Ha tre anni.",
+    "a_en": "He is three years old.",
+    "emoji": null,
+    "key": "儿子"
+  },
+  {
+    "q": "你女儿在哪儿？",
+    "a": "她在学校。",
+    "q_it": "Dov'è tua figlia?",
+    "q_en": "Where is your daughter?",
+    "a_it": "È a scuola.",
+    "a_en": "She is at school.",
+    "emoji": null,
+    "key": "女儿"
+  },
+  {
+    "q": "老师在哪儿？",
+    "a": "他在学校。",
+    "q_it": "Dov'è l'insegnante?",
+    "q_en": "Where is the teacher?",
+    "a_it": "È a scuola.",
+    "a_en": "He is at school.",
+    "emoji": null,
+    "key": "老师"
+  },
+  {
+    "q": "这个椅子是谁的？",
+    "a": "是老师的。",
+    "q_it": "Di chi è questa sedia?",
+    "q_en": "Whose chair is this?",
+    "a_it": "È dell'insegnante.",
+    "a_en": "It's the teacher's.",
+    "emoji": null,
+    "key": "椅子"
+  },
+  {
+    "q": "你喜欢学习吗？",
+    "a": "我很喜欢。",
+    "q_it": "Ti piace studiare?",
+    "q_en": "Do you like studying?",
+    "a_it": "Mi piace molto.",
+    "a_en": "I like it a lot.",
+    "emoji": null,
+    "key": "学习"
+  },
+  {
+    "q": "他高兴吗？",
+    "a": "他很高兴。",
+    "q_it": "È contento?",
+    "q_en": "Is he happy?",
+    "a_it": "È molto contento.",
+    "a_en": "He is very happy.",
+    "emoji": null,
+    "key": "高兴"
+  },
+  {
+    "q": "你会写字吗？",
+    "a": "我会写。",
+    "q_it": "Sai scrivere?",
+    "q_en": "Can you write?",
+    "a_it": "So scrivere.",
+    "a_en": "I can write.",
+    "emoji": null,
+    "key": "写"
+  }
+]

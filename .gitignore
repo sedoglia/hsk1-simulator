@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Dati utente (cache audio, DB storico - personali, non in repo)
+userdata/
+
+# File temporanei e di sviluppo
+tmp/
+*.tmp
+*.zip
+test_gui.py
+build_vocab.py
+fetch_images.py
+fetch_more.py
+validate_banks.py
+
+# Esami ufficiali Hanban (copyright - scaricabili separatamente)
+official_exams/
+exam/
+
+# Piani Claude Code
+.claude/
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user

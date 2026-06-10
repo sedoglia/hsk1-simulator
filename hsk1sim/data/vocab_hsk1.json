@@ -1,0 +1,2657 @@
+[
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "it": "zero",
+    "en": "zero",
+    "emoji": "0️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "it": "uno",
+    "en": "one",
+    "emoji": "1️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "it": "due",
+    "en": "two",
+    "emoji": "2️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "it": "tre",
+    "en": "three",
+    "emoji": "3️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "it": "quattro",
+    "en": "four",
+    "emoji": "4️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "it": "cinque",
+    "en": "five",
+    "emoji": "5️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "it": "sei",
+    "en": "six",
+    "emoji": "6️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "it": "sette",
+    "en": "seven",
+    "emoji": "7️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "it": "otto",
+    "en": "eight",
+    "emoji": "8️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "it": "nove",
+    "en": "nine",
+    "emoji": "9️⃣",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "it": "dieci",
+    "en": "ten",
+    "emoji": "🔟",
+    "category": "number",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "it": "cento",
+    "en": "hundred",
+    "emoji": null,
+    "category": "number",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "it": "mille",
+    "en": "thousand",
+    "emoji": null,
+    "category": "number",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "it": "due (quantità)",
+    "en": "two (of something)",
+    "emoji": null,
+    "category": "number",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "it": "io",
+    "en": "I, me",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "it": "tu",
+    "en": "you",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "您",
+    "pinyin": "nín",
+    "it": "Lei (formale)",
+    "en": "you (polite)",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "it": "lui",
+    "en": "he, him",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "it": "lei",
+    "en": "she, her",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "它",
+    "pinyin": "tā",
+    "it": "esso (cosa/animale)",
+    "en": "it",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "it": "noi",
+    "en": "we, us",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "it": "voi",
+    "en": "you (plural)",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "it": "loro (m.)",
+    "en": "they, them",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "她们",
+    "pinyin": "tāmen",
+    "it": "loro (f.)",
+    "en": "they (female)",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "it": "questo",
+    "en": "this",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "it": "quello",
+    "en": "that",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "这儿",
+    "pinyin": "zhè ér",
+    "it": "qui",
+    "en": "here",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "那儿",
+    "pinyin": "nà ér",
+    "it": "là",
+    "en": "there",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "it": "quale",
+    "en": "which",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "nǎ ér",
+    "it": "dove",
+    "en": "where",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "it": "chi",
+    "en": "who",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "it": "che cosa",
+    "en": "what",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "it": "quanto",
+    "en": "how many/much",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "it": "quanti",
+    "en": "how many (few)",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "it": "come",
+    "en": "how",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "it": "come va",
+    "en": "how about",
+    "emoji": null,
+    "category": "pronoun",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "it": "persona",
+    "en": "person",
+    "emoji": "🧑",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "it": "papà",
+    "en": "dad",
+    "emoji": "👨",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "it": "mamma",
+    "en": "mom",
+    "emoji": "👩",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "it": "figlio",
+    "en": "son",
+    "emoji": "👦",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "it": "figlia",
+    "en": "daughter",
+    "emoji": "👧",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "it": "fratello maggiore",
+    "en": "older brother",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "it": "sorella maggiore",
+    "en": "older sister",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "it": "fratello minore",
+    "en": "younger brother",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "it": "sorella minore",
+    "en": "younger sister",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "it": "insegnante",
+    "en": "teacher",
+    "emoji": "👨‍🏫",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "it": "studente",
+    "en": "student",
+    "emoji": "🧑‍🎓",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "it": "compagno di classe",
+    "en": "classmate",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "it": "amico",
+    "en": "friend",
+    "emoji": "🧑‍🤝‍🧑",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "it": "medico",
+    "en": "doctor",
+    "emoji": "🧑‍⚕️",
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "it": "signore",
+    "en": "Mr., sir",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "xiǎo jiě",
+    "it": "signorina",
+    "en": "miss",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "孩子",
+    "pinyin": "háizi",
+    "it": "bambino",
+    "en": "child",
+    "emoji": "🧒",
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "男人",
+    "pinyin": "nán rén",
+    "it": "uomo",
+    "en": "man",
+    "emoji": "👨",
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "女人",
+    "pinyin": "nǚ rén",
+    "it": "donna",
+    "en": "woman",
+    "emoji": "👩",
+    "category": "people",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "it": "nome",
+    "en": "name",
+    "emoji": null,
+    "category": "people",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "it": "anno",
+    "en": "year",
+    "emoji": "📆",
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "it": "mese",
+    "en": "month",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "日",
+    "pinyin": "rì",
+    "it": "giorno",
+    "en": "day (date)",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "hào",
+    "it": "giorno (data)",
+    "en": "day/number (date)",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "it": "settimana",
+    "en": "week",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "it": "oggi",
+    "en": "today",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "it": "ieri",
+    "en": "yesterday",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "it": "domani",
+    "en": "tomorrow",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "shàng wǔ",
+    "it": "mattina",
+    "en": "morning",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "it": "mezzogiorno",
+    "en": "noon",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "xià wǔ",
+    "it": "pomeriggio",
+    "en": "afternoon",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "早上",
+    "pinyin": "zǎo shàng",
+    "it": "mattino presto",
+    "en": "early morning",
+    "emoji": "🌅",
+    "category": "time",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "晚上",
+    "pinyin": "wǎn shàng",
+    "it": "sera",
+    "en": "evening",
+    "emoji": "🌆",
+    "category": "time",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "it": "adesso",
+    "en": "now",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "it": "ora (orologio)",
+    "en": "o'clock",
+    "emoji": "🕐",
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "it": "minuto",
+    "en": "minute",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "it": "ora (durata)",
+    "en": "hour",
+    "emoji": "⏰",
+    "category": "time",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "it": "momento",
+    "en": "time, moment",
+    "emoji": null,
+    "category": "time",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "it": "essere",
+    "en": "to be",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "it": "avere",
+    "en": "to have",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "it": "trovarsi, stare",
+    "en": "to be at",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "it": "andare",
+    "en": "to go",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "it": "venire",
+    "en": "to come",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "回",
+    "pinyin": "huí",
+    "it": "tornare",
+    "en": "to return",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "it": "mangiare",
+    "en": "to eat",
+    "emoji": "🍽️",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "it": "bere",
+    "en": "to drink",
+    "emoji": "🥤",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "it": "guardare",
+    "en": "to look, to watch",
+    "emoji": "👀",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "it": "ascoltare",
+    "en": "to listen",
+    "emoji": "👂",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "it": "dire, parlare",
+    "en": "to speak",
+    "emoji": "💬",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "it": "leggere",
+    "en": "to read aloud",
+    "emoji": "📖",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "it": "scrivere",
+    "en": "to write",
+    "emoji": "✍️",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "it": "studiare",
+    "en": "to study",
+    "emoji": "📚",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "it": "lavorare",
+    "en": "to work",
+    "emoji": "💼",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "it": "abitare",
+    "en": "to live, to stay",
+    "emoji": "🏠",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "it": "fare",
+    "en": "to do, to make",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "it": "comprare",
+    "en": "to buy",
+    "emoji": "🛒",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "it": "vendere",
+    "en": "to sell",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "it": "aprire, guidare",
+    "en": "to open, to drive",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "it": "sedersi, prendere (mezzo)",
+    "en": "to sit, to ride",
+    "emoji": "🪑",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "it": "camminare, andarsene",
+    "en": "to walk, to leave",
+    "emoji": "🚶",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "it": "stare in piedi",
+    "en": "to stand",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "it": "correre",
+    "en": "to run",
+    "emoji": "🏃",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "it": "ridere",
+    "en": "to laugh, to smile",
+    "emoji": "😄",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "哭",
+    "pinyin": "kū",
+    "it": "piangere",
+    "en": "to cry",
+    "emoji": "😢",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "it": "amare",
+    "en": "to love",
+    "emoji": "❤️",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "it": "piacere",
+    "en": "to like",
+    "emoji": "👍",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "it": "pensare, volere",
+    "en": "to think, to want",
+    "emoji": "🤔",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "it": "volere, dovere",
+    "en": "to want, will",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "it": "saper fare, potere",
+    "en": "can, to know how",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "it": "potere",
+    "en": "to be able to",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "it": "potere (permesso)",
+    "en": "may, can",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "it": "conoscere",
+    "en": "to know (a person)",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "it": "sapere",
+    "en": "to know (a fact)",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "觉得",
+    "pinyin": "juéde",
+    "it": "ritenere, pensare",
+    "en": "to feel, to think",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "希望",
+    "pinyin": "xī wàng",
+    "it": "sperare",
+    "en": "to hope",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "it": "colpire, fare (telefono)",
+    "en": "to hit, to make (call)",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "it": "telefonare",
+    "en": "to make a phone call",
+    "emoji": "📞",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "it": "dare",
+    "en": "to give",
+    "emoji": "🎁",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "it": "cercare",
+    "en": "to look for",
+    "emoji": "🔍",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "等",
+    "pinyin": "děng",
+    "it": "aspettare",
+    "en": "to wait",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "it": "aiutare",
+    "en": "to help",
+    "emoji": "🤝",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "教",
+    "pinyin": "jiào",
+    "it": "insegnare",
+    "en": "to teach",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "it": "chiedere",
+    "en": "to ask",
+    "emoji": "❓",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "回答",
+    "pinyin": "huí dá",
+    "it": "rispondere",
+    "en": "to answer",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "介绍",
+    "pinyin": "jiè shào",
+    "it": "presentare",
+    "en": "to introduce",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "睡觉",
+    "pinyin": "shuì jiào",
+    "it": "dormire",
+    "en": "to sleep",
+    "emoji": "😴",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "it": "chiamarsi, chiamare",
+    "en": "to be called, to call",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "看见",
+    "pinyin": "kàn jiàn",
+    "it": "vedere",
+    "en": "to see",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "说话",
+    "pinyin": "shuō huà",
+    "it": "parlare",
+    "en": "to speak, to talk",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "it": "alzarsi (dal letto)",
+    "en": "to get up",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "it": "indossare",
+    "en": "to wear",
+    "emoji": null,
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "it": "piovere",
+    "en": "to rain",
+    "emoji": "🌧️",
+    "category": "verb",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "下雪",
+    "pinyin": "xià xuě",
+    "it": "nevicare",
+    "en": "to snow",
+    "emoji": "🌨️",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "it": "giocare",
+    "en": "to play",
+    "emoji": "🎮",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chàng gē",
+    "it": "cantare",
+    "en": "to sing",
+    "emoji": "🎤",
+    "category": "verb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "it": "buono",
+    "en": "good",
+    "emoji": "👌",
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "it": "grande",
+    "en": "big",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "it": "piccolo",
+    "en": "small",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "it": "molto",
+    "en": "many",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "it": "poco",
+    "en": "few",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "it": "alto",
+    "en": "tall, high",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "zhǎng",
+    "it": "lungo",
+    "en": "long",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "it": "nuovo",
+    "en": "new",
+    "emoji": "🆕",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "it": "vecchio (cosa)",
+    "en": "old (thing)",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "it": "vecchio, anziano",
+    "en": "old (age)",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "it": "caldo",
+    "en": "hot",
+    "emoji": "🔥",
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "it": "freddo",
+    "en": "cold",
+    "emoji": "🥶",
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "it": "occupato",
+    "en": "busy",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "it": "stanco",
+    "en": "tired",
+    "emoji": "😫",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "it": "veloce",
+    "en": "fast",
+    "emoji": "⚡",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "it": "lento",
+    "en": "slow",
+    "emoji": "🐢",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "it": "lontano",
+    "en": "far",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "it": "vicino",
+    "en": "near",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "piàoliang",
+    "it": "bello",
+    "en": "pretty",
+    "emoji": "💖",
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "it": "contento",
+    "en": "happy",
+    "emoji": "😊",
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "对",
+    "pinyin": "duì",
+    "it": "giusto",
+    "en": "correct",
+    "emoji": "✅",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "it": "sbagliato",
+    "en": "wrong",
+    "emoji": "❌",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "it": "caro (costoso)",
+    "en": "expensive",
+    "emoji": "💰",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "便宜",
+    "pinyin": "piányi",
+    "it": "economico",
+    "en": "cheap",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "it": "buono (da mangiare)",
+    "en": "tasty",
+    "emoji": "😋",
+    "category": "adj",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duì bù qǐ",
+    "it": "scusa",
+    "en": "sorry",
+    "emoji": null,
+    "category": "adj",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "it": "tè",
+    "en": "tea",
+    "emoji": "🍵",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "it": "acqua",
+    "en": "water",
+    "emoji": "💧",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "it": "riso (cotto)",
+    "en": "cooked rice",
+    "emoji": "🍚",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "it": "verdura, pietanza",
+    "en": "vegetable, dish",
+    "emoji": "🥬",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "it": "mela",
+    "en": "apple",
+    "emoji": "🍎",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "it": "frutta",
+    "en": "fruit",
+    "emoji": "🍉",
+    "category": "food",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "it": "pesce",
+    "en": "fish",
+    "emoji": "🐟",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "it": "carne",
+    "en": "meat",
+    "emoji": "🥩",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "it": "uovo",
+    "en": "egg",
+    "emoji": "🥚",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "it": "latte",
+    "en": "milk",
+    "emoji": "🥛",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "it": "spaghetti (cinesi)",
+    "en": "noodles",
+    "emoji": "🍜",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "it": "caffè",
+    "en": "coffee",
+    "emoji": "☕",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "面包",
+    "pinyin": "miàn bāo",
+    "it": "pane",
+    "en": "bread",
+    "emoji": "🍞",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "it": "pollo",
+    "en": "chicken",
+    "emoji": "🐔",
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "羊肉",
+    "pinyin": "yáng ròu",
+    "it": "carne di pecora",
+    "en": "mutton",
+    "emoji": null,
+    "category": "food",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "it": "bicchiere",
+    "en": "cup",
+    "emoji": "🥛",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "it": "ciotola",
+    "en": "bowl",
+    "emoji": "🥣",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "筷子",
+    "pinyin": "kuàizi",
+    "it": "bacchette",
+    "en": "chopsticks",
+    "emoji": "🥢",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "it": "libro",
+    "en": "book",
+    "emoji": "📕",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "it": "carattere",
+    "en": "character",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "词",
+    "pinyin": "cí",
+    "it": "parola",
+    "en": "word",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "电话",
+    "pinyin": "diàn huà",
+    "it": "telefono",
+    "en": "telephone",
+    "emoji": "☎️",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "it": "televisione",
+    "en": "television",
+    "emoji": "📺",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "it": "film",
+    "en": "movie",
+    "emoji": "🎬",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "it": "computer",
+    "en": "computer",
+    "emoji": "💻",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "it": "cellulare",
+    "en": "mobile phone",
+    "emoji": "📱",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "it": "soldi",
+    "en": "money",
+    "emoji": "💵",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "it": "vestiti",
+    "en": "clothes",
+    "emoji": "👕",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "it": "tavolo",
+    "en": "table",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "it": "sedia",
+    "en": "chair",
+    "emoji": "🪑",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "门",
+    "pinyin": "mén",
+    "it": "porta",
+    "en": "door",
+    "emoji": "🚪",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "票",
+    "pinyin": "piào",
+    "it": "biglietto",
+    "en": "ticket",
+    "emoji": "🎫",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "it": "cosa, oggetto",
+    "en": "thing",
+    "emoji": "📦",
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bào zhǐ",
+    "it": "giornale",
+    "en": "newspaper",
+    "emoji": "📰",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "地图",
+    "pinyin": "dì tú",
+    "it": "mappa",
+    "en": "map",
+    "emoji": "🗺️",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "花",
+    "pinyin": "huā",
+    "it": "fiore",
+    "en": "flower",
+    "emoji": "🌸",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "雨伞",
+    "pinyin": "yǔ sǎn",
+    "it": "ombrello",
+    "en": "umbrella",
+    "emoji": "☂️",
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "hàn yǔ",
+    "it": "cinese (lingua)",
+    "en": "Chinese language",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "中文",
+    "pinyin": "zhōng wén",
+    "it": "cinese (scritto)",
+    "en": "Chinese (written)",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "英语",
+    "pinyin": "yīng yǔ",
+    "it": "inglese",
+    "en": "English",
+    "emoji": null,
+    "category": "object",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "it": "scuola",
+    "en": "school",
+    "emoji": "🏫",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "it": "casa",
+    "en": "home",
+    "emoji": "🏠",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "it": "negozio",
+    "en": "shop",
+    "emoji": "🏪",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "it": "ospedale",
+    "en": "hospital",
+    "emoji": "🏥",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàn diàn",
+    "it": "ristorante",
+    "en": "restaurant",
+    "emoji": "🍴",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "饭馆",
+    "pinyin": "fàn guǎn",
+    "it": "trattoria, ristorante",
+    "en": "restaurant, eatery",
+    "emoji": null,
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "it": "stazione ferroviaria",
+    "en": "train station",
+    "emoji": "🚉",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "it": "aeroporto",
+    "en": "airport",
+    "emoji": "✈️",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "银行",
+    "pinyin": "yínháng",
+    "it": "banca",
+    "en": "bank",
+    "emoji": "🏦",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "公司",
+    "pinyin": "gōng sī",
+    "it": "azienda",
+    "en": "company",
+    "emoji": "🏢",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "zhōng guó",
+    "it": "Cina",
+    "en": "China",
+    "emoji": "🇨🇳",
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "běi jīng",
+    "it": "Pechino",
+    "en": "Beijing",
+    "emoji": null,
+    "category": "place",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "it": "stanza",
+    "en": "room",
+    "emoji": null,
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "教室",
+    "pinyin": "jiào shì",
+    "it": "aula",
+    "en": "classroom",
+    "emoji": null,
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "it": "biblioteca",
+    "en": "library",
+    "emoji": "📚",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "厕所",
+    "pinyin": "cè suǒ",
+    "it": "bagno",
+    "en": "toilet",
+    "emoji": "🚻",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "路",
+    "pinyin": "lù",
+    "it": "strada",
+    "en": "road",
+    "emoji": "🛣️",
+    "category": "place",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "it": "testa",
+    "en": "head",
+    "emoji": null,
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "it": "mano",
+    "en": "hand",
+    "emoji": "✋",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jīng",
+    "it": "occhi",
+    "en": "eyes",
+    "emoji": "👁️",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "嘴",
+    "pinyin": "zuǐ",
+    "it": "bocca",
+    "en": "mouth",
+    "emoji": "👄",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "耳朵",
+    "pinyin": "ěr duǒ",
+    "it": "orecchio",
+    "en": "ear",
+    "emoji": "👂",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "it": "piede",
+    "en": "foot",
+    "emoji": "🦶",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "身体",
+    "pinyin": "shēn tǐ",
+    "it": "corpo",
+    "en": "body",
+    "emoji": null,
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "鼻子",
+    "pinyin": "bí zi",
+    "it": "naso",
+    "en": "nose",
+    "emoji": "👃",
+    "category": "body",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "it": "aereo",
+    "en": "airplane",
+    "emoji": "✈️",
+    "category": "transport",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "it": "taxi",
+    "en": "taxi",
+    "emoji": "🚕",
+    "category": "transport",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "火车",
+    "pinyin": "huǒ chē",
+    "it": "treno",
+    "en": "train",
+    "emoji": "🚆",
+    "category": "transport",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "汽车",
+    "pinyin": "qì chē",
+    "it": "automobile",
+    "en": "car",
+    "emoji": "🚗",
+    "category": "transport",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "自行车",
+    "pinyin": "zì xíng chē",
+    "it": "bicicletta",
+    "en": "bicycle",
+    "emoji": "🚲",
+    "category": "transport",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "it": "autobus",
+    "en": "bus",
+    "emoji": "🚌",
+    "category": "transport",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "船",
+    "pinyin": "chuán",
+    "it": "nave",
+    "en": "boat",
+    "emoji": "🚢",
+    "category": "transport",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "it": "cane",
+    "en": "dog",
+    "emoji": "🐶",
+    "category": "animal",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "it": "gatto",
+    "en": "cat",
+    "emoji": "🐱",
+    "category": "animal",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "it": "uccello",
+    "en": "bird",
+    "emoji": "🐦",
+    "category": "animal",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "it": "cavallo",
+    "en": "horse",
+    "emoji": "🐴",
+    "category": "animal",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "it": "tempo (meteo)",
+    "en": "weather",
+    "emoji": "🌤️",
+    "category": "nature",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "太阳",
+    "pinyin": "tài yáng",
+    "it": "sole",
+    "en": "sun",
+    "emoji": "☀️",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "月亮",
+    "pinyin": "yuè liàng",
+    "it": "luna",
+    "en": "moon",
+    "emoji": "🌙",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "it": "pioggia",
+    "en": "rain",
+    "emoji": "🌧️",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "it": "neve",
+    "en": "snow",
+    "emoji": "❄️",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "风",
+    "pinyin": "fēng",
+    "it": "vento",
+    "en": "wind",
+    "emoji": "🌬️",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "山",
+    "pinyin": "shān",
+    "it": "montagna",
+    "en": "mountain",
+    "emoji": "⛰️",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "河",
+    "pinyin": "hé",
+    "it": "fiume",
+    "en": "river",
+    "emoji": null,
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "树",
+    "pinyin": "shù",
+    "it": "albero",
+    "en": "tree",
+    "emoji": "🌳",
+    "category": "nature",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "it": "rosso",
+    "en": "red",
+    "emoji": "🔴",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "it": "bianco",
+    "en": "white",
+    "emoji": "⚪",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "it": "nero",
+    "en": "black",
+    "emoji": "⚫",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "it": "blu",
+    "en": "blue",
+    "emoji": "🔵",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "it": "verde",
+    "en": "green",
+    "emoji": "🟢",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "it": "giallo",
+    "en": "yellow",
+    "emoji": "🟡",
+    "category": "color",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "it": "classificatore generico",
+    "en": "general measure word",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "it": "cl. per libri",
+    "en": "measure word (books)",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "it": "cl. per soldi/pezzi",
+    "en": "measure word (money/pieces)",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "it": "anni (età)",
+    "en": "years of age",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "it": "alcuni",
+    "en": "some",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "it": "cl. per bicchieri",
+    "en": "measure word (cups)",
+    "emoji": null,
+    "category": "measure",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "it": "particella possessiva",
+    "en": "possessive particle",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "it": "particella aspettuale",
+    "en": "aspect particle",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "it": "particella interrogativa",
+    "en": "question particle",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "it": "particella interrogativa",
+    "en": "question particle (and you?)",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "it": "particella suggerimento",
+    "en": "suggestion particle",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "it": "non",
+    "en": "not",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "it": "non (avere)",
+    "en": "not (have)",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "it": "molto",
+    "en": "very",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "tài",
+    "it": "troppo",
+    "en": "too",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "it": "tutti",
+    "en": "all, both",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "it": "anche",
+    "en": "also",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "it": "e, con",
+    "en": "and, with",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "it": "sopra",
+    "en": "on, above",
+    "emoji": "⬆️",
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "it": "sotto",
+    "en": "under, below",
+    "emoji": "⬇️",
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "it": "dentro",
+    "en": "inside",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "前面",
+    "pinyin": "qián miàn",
+    "it": "davanti",
+    "en": "in front",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "后面",
+    "pinyin": "hòu miàn",
+    "it": "dietro",
+    "en": "behind",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "左边",
+    "pinyin": "zuǒ biān",
+    "it": "a sinistra",
+    "en": "left side",
+    "emoji": "⬅️",
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "右边",
+    "pinyin": "yòu biān",
+    "it": "a destra",
+    "en": "right side",
+    "emoji": "➡️",
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "中间",
+    "pinyin": "zhōng jiān",
+    "it": "in mezzo",
+    "en": "middle",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "因为",
+    "pinyin": "yīn wèi",
+    "it": "perché (causa)",
+    "en": "because",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "所以",
+    "pinyin": "suǒ yǐ",
+    "it": "perciò",
+    "en": "so, therefore",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "但是",
+    "pinyin": "dàn shì",
+    "it": "ma",
+    "en": "but",
+    "emoji": null,
+    "category": "function",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "it": "davvero",
+    "en": "really",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "it": "il più",
+    "en": "most",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "一起",
+    "pinyin": "yì qǐ",
+    "it": "insieme",
+    "en": "together",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "it": "ancora",
+    "en": "still, also",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "it": "subito, proprio",
+    "en": "just, then",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "已经",
+    "pinyin": "yǐ jīng",
+    "it": "già",
+    "en": "already",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "再",
+    "pinyin": "zài",
+    "it": "di nuovo",
+    "en": "again",
+    "emoji": "🔁",
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "非常",
+    "pinyin": "fēi cháng",
+    "it": "estremamente",
+    "en": "extremely",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "yì diǎn ér",
+    "it": "un po'",
+    "en": "a little",
+    "emoji": null,
+    "category": "adverb",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "it": "ciao (salve)",
+    "en": "hello",
+    "emoji": "👋",
+    "category": "expression",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "it": "grazie",
+    "en": "thank you",
+    "emoji": "🙏",
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "bú kè qì",
+    "it": "prego",
+    "en": "you're welcome",
+    "emoji": null,
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "it": "arrivederci",
+    "en": "goodbye",
+    "emoji": "👋",
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guān xì",
+    "it": "non importa",
+    "en": "it doesn't matter",
+    "emoji": null,
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "it": "prego (per favore)",
+    "en": "please",
+    "emoji": null,
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "it": "pronto (telefono)",
+    "en": "hello (phone)",
+    "emoji": "📞",
+    "category": "expression",
+    "hsk1_official": true
+  },
+  {
+    "hanzi": "是的",
+    "pinyin": "shì de",
+    "it": "sì",
+    "en": "yes",
+    "emoji": null,
+    "category": "expression",
+    "hsk1_official": false
+  },
+  {
+    "hanzi": "好的",
+    "pinyin": "hǎo de",
+    "it": "va bene",
+    "en": "okay",
+    "emoji": null,
+    "category": "expression",
+    "hsk1_official": false
+  }
+]

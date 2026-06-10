@@ -1,0 +1,740 @@
+[
+  {
+    "zh": "我喜欢喝茶。",
+    "it": "Mi piace bere il tè.",
+    "en": "I like to drink tea.",
+    "key": "茶"
+  },
+  {
+    "zh": "桌子上有一杯茶。",
+    "it": "Sul tavolo c'è una tazza di tè.",
+    "en": "There is a cup of tea on the table.",
+    "key": "茶"
+  },
+  {
+    "zh": "我想喝水。",
+    "it": "Voglio bere acqua.",
+    "en": "I want to drink water.",
+    "key": "水"
+  },
+  {
+    "zh": "家里没水了。",
+    "it": "Non c'è più acqua in casa.",
+    "en": "There's no water left at home.",
+    "key": "水"
+  },
+  {
+    "zh": "我喜欢吃米饭。",
+    "it": "Mi piace mangiare il riso.",
+    "en": "I like to eat rice.",
+    "key": "米饭"
+  },
+  {
+    "zh": "我想吃米饭。",
+    "it": "Voglio mangiare il riso.",
+    "en": "I want to eat rice.",
+    "key": "吃"
+  },
+  {
+    "zh": "妈妈在做菜。",
+    "it": "La mamma sta cucinando.",
+    "en": "Mom is cooking.",
+    "key": "菜"
+  },
+  {
+    "zh": "我喜欢吃中国菜。",
+    "it": "Mi piace la cucina cinese.",
+    "en": "I like Chinese food.",
+    "key": "菜"
+  },
+  {
+    "zh": "这个苹果很好吃。",
+    "it": "Questa mela è buona.",
+    "en": "This apple is tasty.",
+    "key": "苹果"
+  },
+  {
+    "zh": "我想买一些水果。",
+    "it": "Voglio comprare un po' di frutta.",
+    "en": "I want to buy some fruit.",
+    "key": "水果"
+  },
+  {
+    "zh": "妈妈买了很多水果。",
+    "it": "La mamma ha comprato molta frutta.",
+    "en": "Mom bought a lot of fruit.",
+    "key": "买"
+  },
+  {
+    "zh": "我想喝茶。",
+    "it": "Voglio bere il tè.",
+    "en": "I want to drink tea.",
+    "key": "喝"
+  },
+  {
+    "zh": "我有一只小猫。",
+    "it": "Ho un gattino.",
+    "en": "I have a kitten.",
+    "key": "猫"
+  },
+  {
+    "zh": "那只猫在椅子上。",
+    "it": "Quel gatto è sulla sedia.",
+    "en": "That cat is on the chair.",
+    "key": "猫"
+  },
+  {
+    "zh": "我的狗很大。",
+    "it": "Il mio cane è grande.",
+    "en": "My dog is big.",
+    "key": "狗"
+  },
+  {
+    "zh": "我喜欢小狗。",
+    "it": "Mi piacciono i cagnolini.",
+    "en": "I like puppies.",
+    "key": "狗"
+  },
+  {
+    "zh": "这是我的书。",
+    "it": "Questo è il mio libro.",
+    "en": "This is my book.",
+    "key": "书"
+  },
+  {
+    "zh": "他在看书。",
+    "it": "Sta leggendo un libro.",
+    "en": "He is reading a book.",
+    "key": "看"
+  },
+  {
+    "zh": "桌子上有三本书。",
+    "it": "Sul tavolo ci sono tre libri.",
+    "en": "There are three books on the table.",
+    "key": "书"
+  },
+  {
+    "zh": "他喜欢看电视。",
+    "it": "Gli piace guardare la TV.",
+    "en": "He likes watching TV.",
+    "key": "电视"
+  },
+  {
+    "zh": "这是我昨天买的电视。",
+    "it": "Questa è la TV che ho comprato ieri.",
+    "en": "This is the TV I bought yesterday.",
+    "key": "电视"
+  },
+  {
+    "zh": "我想看电影。",
+    "it": "Voglio vedere un film.",
+    "en": "I want to watch a movie.",
+    "key": "电影"
+  },
+  {
+    "zh": "这个电影很好。",
+    "it": "Questo film è bello.",
+    "en": "This movie is good.",
+    "key": "电影"
+  },
+  {
+    "zh": "这个电脑是我的。",
+    "it": "Questo computer è mio.",
+    "en": "This computer is mine.",
+    "key": "电脑"
+  },
+  {
+    "zh": "我没钱了。",
+    "it": "Non ho più soldi.",
+    "en": "I have no money left.",
+    "key": "钱"
+  },
+  {
+    "zh": "她们在买衣服。",
+    "it": "Stanno comprando vestiti.",
+    "en": "They are buying clothes.",
+    "key": "衣服"
+  },
+  {
+    "zh": "她有很多衣服。",
+    "it": "Ha molti vestiti.",
+    "en": "She has many clothes.",
+    "key": "衣服"
+  },
+  {
+    "zh": "请坐这个椅子。",
+    "it": "Siediti su questa sedia.",
+    "en": "Please sit on this chair.",
+    "key": "椅子"
+  },
+  {
+    "zh": "我想买一个杯子。",
+    "it": "Voglio comprare un bicchiere.",
+    "en": "I want to buy a cup.",
+    "key": "杯子"
+  },
+  {
+    "zh": "这是我爸爸。",
+    "it": "Questo è mio papà.",
+    "en": "This is my dad.",
+    "key": "爸爸"
+  },
+  {
+    "zh": "我爸爸是医生。",
+    "it": "Mio papà è medico.",
+    "en": "My dad is a doctor.",
+    "key": "医生"
+  },
+  {
+    "zh": "妈妈在家。",
+    "it": "La mamma è a casa.",
+    "en": "Mom is at home.",
+    "key": "妈妈"
+  },
+  {
+    "zh": "我妈妈是老师。",
+    "it": "Mia mamma è insegnante.",
+    "en": "My mom is a teacher.",
+    "key": "妈妈"
+  },
+  {
+    "zh": "他是我儿子。",
+    "it": "Lui è mio figlio.",
+    "en": "He is my son.",
+    "key": "儿子"
+  },
+  {
+    "zh": "她是我女儿。",
+    "it": "Lei è mia figlia.",
+    "en": "She is my daughter.",
+    "key": "女儿"
+  },
+  {
+    "zh": "他是我的朋友。",
+    "it": "Lui è il mio amico.",
+    "en": "He is my friend.",
+    "key": "朋友"
+  },
+  {
+    "zh": "那个老师很高兴。",
+    "it": "Quell'insegnante è contento.",
+    "en": "That teacher is happy.",
+    "key": "老师"
+  },
+  {
+    "zh": "学生在看书。",
+    "it": "Lo studente legge.",
+    "en": "The student is reading.",
+    "key": "学生"
+  },
+  {
+    "zh": "学生们都在学习。",
+    "it": "Gli studenti studiano tutti.",
+    "en": "The students are all studying.",
+    "key": "学习"
+  },
+  {
+    "zh": "医生在医院工作。",
+    "it": "Il medico lavora in ospedale.",
+    "en": "The doctor works at the hospital.",
+    "key": "医生"
+  },
+  {
+    "zh": "那儿有很多人。",
+    "it": "Lì ci sono molte persone.",
+    "en": "There are many people there.",
+    "key": "人"
+  },
+  {
+    "zh": "我去学校。",
+    "it": "Vado a scuola.",
+    "en": "I go to school.",
+    "key": "学校"
+  },
+  {
+    "zh": "他在学校工作。",
+    "it": "Lui lavora a scuola.",
+    "en": "He works at school.",
+    "key": "工作"
+  },
+  {
+    "zh": "爸爸在工作。",
+    "it": "Papà sta lavorando.",
+    "en": "Dad is working.",
+    "key": "工作"
+  },
+  {
+    "zh": "我想回家。",
+    "it": "Voglio tornare a casa.",
+    "en": "I want to go home.",
+    "key": "家"
+  },
+  {
+    "zh": "我们一起去商店。",
+    "it": "Andiamo insieme al negozio.",
+    "en": "We go to the shop together.",
+    "key": "商店"
+  },
+  {
+    "zh": "医院在前面。",
+    "it": "L'ospedale è davanti.",
+    "en": "The hospital is ahead.",
+    "key": "医院"
+  },
+  {
+    "zh": "火车站在哪儿？",
+    "it": "Dov'è la stazione?",
+    "en": "Where is the train station?",
+    "key": "火车站"
+  },
+  {
+    "zh": "我想去中国。",
+    "it": "Voglio andare in Cina.",
+    "en": "I want to go to China.",
+    "key": "中国"
+  },
+  {
+    "zh": "我坐飞机去中国。",
+    "it": "Vado in Cina in aereo.",
+    "en": "I fly to China.",
+    "key": "飞机"
+  },
+  {
+    "zh": "他坐出租车去火车站。",
+    "it": "Va alla stazione in taxi.",
+    "en": "He takes a taxi to the station.",
+    "key": "出租车"
+  },
+  {
+    "zh": "我们坐出租车回家。",
+    "it": "Torniamo a casa in taxi.",
+    "en": "We go home by taxi.",
+    "key": "坐"
+  },
+  {
+    "zh": "今天天气很好。",
+    "it": "Oggi il tempo è bello.",
+    "en": "The weather is nice today.",
+    "key": "天气"
+  },
+  {
+    "zh": "今天天气很冷。",
+    "it": "Oggi fa freddo.",
+    "en": "It's cold today.",
+    "key": "天气"
+  },
+  {
+    "zh": "今天太热了。",
+    "it": "Oggi fa troppo caldo.",
+    "en": "It's too hot today.",
+    "key": "热"
+  },
+  {
+    "zh": "外面很冷。",
+    "it": "Fuori fa freddo.",
+    "en": "It's cold outside.",
+    "key": "冷"
+  },
+  {
+    "zh": "我今天很高兴。",
+    "it": "Oggi sono contento.",
+    "en": "I'm happy today.",
+    "key": "高兴"
+  },
+  {
+    "zh": "他在打电话。",
+    "it": "Sta telefonando.",
+    "en": "He is making a phone call.",
+    "key": "打电话"
+  },
+  {
+    "zh": "他在睡觉。",
+    "it": "Sta dormendo.",
+    "en": "He is sleeping.",
+    "key": "睡觉"
+  },
+  {
+    "zh": "外面在下雨。",
+    "it": "Fuori piove.",
+    "en": "It is raining outside.",
+    "key": "下雨"
+  },
+  {
+    "zh": "下雨了。",
+    "it": "Si è messo a piovere.",
+    "en": "It started raining.",
+    "key": "下雨"
+  },
+  {
+    "zh": "我喜欢看书。",
+    "it": "Mi piace leggere.",
+    "en": "I like reading.",
+    "key": "看"
+  },
+  {
+    "zh": "他在读书。",
+    "it": "Sta studiando/leggendo.",
+    "en": "He is reading/studying.",
+    "key": "读"
+  },
+  {
+    "zh": "我会写字。",
+    "it": "So scrivere i caratteri.",
+    "en": "I can write characters.",
+    "key": "写"
+  },
+  {
+    "zh": "他在听老师说话。",
+    "it": "Sta ascoltando l'insegnante.",
+    "en": "He is listening to the teacher.",
+    "key": "听"
+  },
+  {
+    "zh": "我喜欢学习汉语。",
+    "it": "Mi piace studiare il cinese.",
+    "en": "I like studying Chinese.",
+    "key": "学习"
+  },
+  {
+    "zh": "我住在北京。",
+    "it": "Abito a Pechino.",
+    "en": "I live in Beijing.",
+    "key": "住"
+  },
+  {
+    "zh": "请坐。",
+    "it": "Si sieda, prego.",
+    "en": "Please sit.",
+    "key": "坐"
+  },
+  {
+    "zh": "我爱我的家。",
+    "it": "Amo la mia famiglia.",
+    "en": "I love my family.",
+    "key": "爱"
+  },
+  {
+    "zh": "现在是三点。",
+    "it": "Sono le tre.",
+    "en": "It's three o'clock.",
+    "key": "点"
+  },
+  {
+    "zh": "天气太热了，多喝水。",
+    "it": "Fa troppo caldo, bevi più acqua.",
+    "en": "It's too hot, drink more water.",
+    "key": "水"
+  },
+  {
+    "zh": "这是我昨天买的衣服。",
+    "it": "Questi sono i vestiti che ho comprato ieri.",
+    "en": "These are the clothes I bought yesterday.",
+    "key": "衣服"
+  },
+  {
+    "zh": "我没看见我的书。",
+    "it": "Non vedo il mio libro.",
+    "en": "I don't see my book.",
+    "key": "书"
+  },
+  {
+    "zh": "他在医院，他是医生。",
+    "it": "È in ospedale, è un medico.",
+    "en": "He is at the hospital, he is a doctor.",
+    "key": "医生"
+  },
+  {
+    "zh": "我想喝茶，你呢？",
+    "it": "Voglio bere il tè, e tu?",
+    "en": "I want tea, and you?",
+    "key": "茶"
+  },
+  {
+    "zh": "这个电影太好了。",
+    "it": "Questo film è bellissimo.",
+    "en": "This movie is great.",
+    "key": "电影"
+  },
+  {
+    "zh": "妈妈在做菜，菜很好吃。",
+    "it": "La mamma cucina, il cibo è buono.",
+    "en": "Mom is cooking, the food is tasty.",
+    "key": "菜"
+  },
+  {
+    "zh": "爸爸回家了。",
+    "it": "Papà è tornato a casa.",
+    "en": "Dad came home.",
+    "key": "家"
+  },
+  {
+    "zh": "他去学校了。",
+    "it": "È andato a scuola.",
+    "en": "He went to school.",
+    "key": "学校"
+  },
+  {
+    "zh": "我吃米饭了。",
+    "it": "Ho mangiato il riso.",
+    "en": "I ate rice.",
+    "key": "米饭"
+  },
+  {
+    "zh": "他买了一个电脑。",
+    "it": "Ha comprato un computer.",
+    "en": "He bought a computer.",
+    "key": "电脑"
+  },
+  {
+    "zh": "我看见那只狗了。",
+    "it": "Ho visto quel cane.",
+    "en": "I saw that dog.",
+    "key": "狗"
+  },
+  {
+    "zh": "我今天喝茶。",
+    "it": "Bevo tè ogni giorno.",
+    "en": "I drink tea every day.",
+    "key": "茶"
+  },
+  {
+    "zh": "这杯水很热。",
+    "it": "Questo bicchiere d'acqua è caldo.",
+    "en": "This glass of water is hot.",
+    "key": "水"
+  },
+  {
+    "zh": "这些苹果是我买的。",
+    "it": "Queste mele le ho comprate io.",
+    "en": "I bought these apples.",
+    "key": "苹果"
+  },
+  {
+    "zh": "我不喜欢吃菜。",
+    "it": "Non mi piace la verdura.",
+    "en": "I don't like vegetables.",
+    "key": "菜"
+  },
+  {
+    "zh": "那只狗很大。",
+    "it": "Quel cane è grande.",
+    "en": "That dog is big.",
+    "key": "狗"
+  },
+  {
+    "zh": "我的猫不在家。",
+    "it": "Il mio gatto non è a casa.",
+    "en": "My cat is not at home.",
+    "key": "猫"
+  },
+  {
+    "zh": "这本书是老师的。",
+    "it": "Questo libro è dell'insegnante.",
+    "en": "This book is the teacher's.",
+    "key": "书"
+  },
+  {
+    "zh": "他在看电视呢。",
+    "it": "Sta guardando la TV.",
+    "en": "He is watching TV.",
+    "key": "电视"
+  },
+  {
+    "zh": "这个电脑太贵了。",
+    "it": "Questo computer è troppo caro.",
+    "en": "This computer is too expensive.",
+    "key": "电脑"
+  },
+  {
+    "zh": "桌子上有一个杯子。",
+    "it": "Sul tavolo c'è un bicchiere.",
+    "en": "There is a cup on the table.",
+    "key": "杯子"
+  },
+  {
+    "zh": "我没有钱了。",
+    "it": "Non ho più soldi.",
+    "en": "I have no money left.",
+    "key": "钱"
+  },
+  {
+    "zh": "这件衣服很漂亮。",
+    "it": "Questo vestito è bello.",
+    "en": "These clothes are pretty.",
+    "key": "衣服"
+  },
+  {
+    "zh": "我爸爸不在家。",
+    "it": "Mio padre non è a casa.",
+    "en": "My dad is not home.",
+    "key": "爸爸"
+  },
+  {
+    "zh": "他儿子今年五岁。",
+    "it": "Suo figlio ha cinque anni.",
+    "en": "His son is five years old.",
+    "key": "儿子"
+  },
+  {
+    "zh": "她女儿很高兴。",
+    "it": "Sua figlia è contenta.",
+    "en": "His daughter is happy.",
+    "key": "女儿"
+  },
+  {
+    "zh": "这是我的好朋友。",
+    "it": "Questo è il mio caro amico.",
+    "en": "This is my good friend.",
+    "key": "朋友"
+  },
+  {
+    "zh": "我们的老师是中国人。",
+    "it": "Il nostro insegnante è cinese.",
+    "en": "Our teacher is Chinese.",
+    "key": "老师"
+  },
+  {
+    "zh": "学生们都很高兴。",
+    "it": "Gli studenti sono tutti contenti.",
+    "en": "The students are all happy.",
+    "key": "学生"
+  },
+  {
+    "zh": "那个医生很忙。",
+    "it": "Quel medico è molto occupato.",
+    "en": "That doctor is very busy.",
+    "key": "医生"
+  },
+  {
+    "zh": "商店里有很多人。",
+    "it": "Nel negozio c'è molta gente.",
+    "en": "There are many people in the shop.",
+    "key": "人"
+  },
+  {
+    "zh": "我今天去学校。",
+    "it": "Vado a scuola ogni giorno.",
+    "en": "I go to school every day.",
+    "key": "学校"
+  },
+  {
+    "zh": "他不在家，去学校了。",
+    "it": "Non è a casa, è andato a scuola.",
+    "en": "He's not home, he went to school.",
+    "key": "家"
+  },
+  {
+    "zh": "我想去商店买东西。",
+    "it": "Voglio andare al negozio a comprare.",
+    "en": "I want to go shopping at the store.",
+    "key": "商店"
+  },
+  {
+    "zh": "医院在火车站前面。",
+    "it": "L'ospedale è davanti alla stazione.",
+    "en": "The hospital is in front of the station.",
+    "key": "医院"
+  },
+  {
+    "zh": "火车站有很多人。",
+    "it": "Alla stazione c'è molta gente.",
+    "en": "There are many people at the station.",
+    "key": "火车站"
+  },
+  {
+    "zh": "我想坐飞机去中国。",
+    "it": "Voglio andare in Cina in aereo.",
+    "en": "I want to fly to China.",
+    "key": "中国"
+  },
+  {
+    "zh": "我坐飞机去北京。",
+    "it": "Vado a Pechino in aereo.",
+    "en": "I fly to Beijing.",
+    "key": "飞机"
+  },
+  {
+    "zh": "他坐出租车回家。",
+    "it": "Torna a casa in taxi.",
+    "en": "He goes home by taxi.",
+    "key": "出租车"
+  },
+  {
+    "zh": "弟弟在看书。",
+    "it": "Il fratellino sta leggendo.",
+    "en": "Little brother is reading.",
+    "key": "看"
+  },
+  {
+    "zh": "我在听老师说话。",
+    "it": "Sto ascoltando l'insegnante.",
+    "en": "I'm listening to the teacher.",
+    "key": "听"
+  },
+  {
+    "zh": "我会写汉字。",
+    "it": "So scrivere i caratteri cinesi.",
+    "en": "I can write Chinese characters.",
+    "key": "写"
+  },
+  {
+    "zh": "学生在读书。",
+    "it": "Lo studente sta leggendo.",
+    "en": "The student is reading.",
+    "key": "读"
+  },
+  {
+    "zh": "他想学习汉语。",
+    "it": "Vuole studiare il cinese.",
+    "en": "He wants to study Chinese.",
+    "key": "学习"
+  },
+  {
+    "zh": "爸爸去工作了。",
+    "it": "Papà è andato a lavorare.",
+    "en": "Dad went to work.",
+    "key": "工作"
+  },
+  {
+    "zh": "我很爱我的家。",
+    "it": "Amo molto la mia famiglia.",
+    "en": "I love my family very much.",
+    "key": "爱"
+  },
+  {
+    "zh": "弟弟在睡觉。",
+    "it": "Il fratellino sta dormendo.",
+    "en": "Little brother is sleeping.",
+    "key": "睡觉"
+  },
+  {
+    "zh": "今天天气太热了。",
+    "it": "Oggi fa troppo caldo.",
+    "en": "It's too hot today.",
+    "key": "热"
+  },
+  {
+    "zh": "外面太冷了。",
+    "it": "Fuori fa troppo freddo.",
+    "en": "It's too cold outside.",
+    "key": "冷"
+  },
+  {
+    "zh": "现在是两点。",
+    "it": "Sono le due.",
+    "en": "It's two o'clock.",
+    "key": "点"
+  },
+  {
+    "zh": "妈妈买了很多菜。",
+    "it": "La mamma ha comprato molta verdura.",
+    "en": "Mom bought a lot of vegetables.",
+    "key": "菜"
+  },
+  {
+    "zh": "我想喝一杯水。",
+    "it": "Voglio bere un bicchiere d'acqua.",
+    "en": "I want a glass of water.",
+    "key": "水"
+  }
+]

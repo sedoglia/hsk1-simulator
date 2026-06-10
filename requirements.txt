@@ -1,0 +1,6 @@
+# Dipendenze del Simulatore Esame HSK1
+# Audio playback usa l'API MCI di Windows (winmm via ctypes) -> nessuna dipendenza extra.
+edge-tts>=6.1.0      # TTS online di alta qualita (voci Neural zh-CN)
+pyttsx3>=2.90        # TTS offline di fallback (SAPI Windows)
+pypinyin>=0.49.0     # generazione pinyin dai caratteri
+Pillow>=9.2.0        # rasterizzazione emoji a colori in immagini (Segoe UI Emoji)

@@ -1,0 +1,179 @@
+{
+  "爸爸": [
+    "words/dad_1.jpg",
+    "words/dad_2.jpg"
+  ],
+  "儿子": [
+    "words/son_1.jpg",
+    "words/son_2.jpg"
+  ],
+  "女儿": [
+    "words/daughter_1.jpg",
+    "words/daughter_2.jpg"
+  ],
+  "朋友": [
+    "words/friends_1.jpg",
+    "words/friends_2.jpg"
+  ],
+  "人": [
+    "words/people_1.jpg",
+    "words/people_2.jpg"
+  ],
+  "写": [
+    "words/write_1.jpg",
+    "words/write_2.jpg"
+  ],
+  "学习": [
+    "words/study_1.jpg",
+    "words/study_2.jpg"
+  ],
+  "住": [
+    "words/live_1.jpg",
+    "words/home2_1.jpg"
+  ],
+  "冷": [
+    "words/cold_1.jpg",
+    "words/cold_2.jpg"
+  ],
+  "高兴": [
+    "words/happy_1.jpg",
+    "words/happy_2.jpg"
+  ],
+  "电影": [
+    "words/movie_1.jpg",
+    "words/movie_2.jpg"
+  ],
+  "电脑": [
+    "words/computer_1.jpg",
+    "words/computer_2.jpg"
+  ],
+  "火车站": [
+    "words/station_1.jpg",
+    "words/station_2.jpg"
+  ],
+  "爱": [
+    "words/love_1.jpg",
+    "words/love_2.jpg"
+  ],
+  "猫": [
+    "words/cat_1.jpg"
+  ],
+  "狗": [
+    "words/dog_1.jpg"
+  ],
+  "苹果": [
+    "words/apple_1.jpg"
+  ],
+  "书": [
+    "words/book_1.jpg"
+  ],
+  "茶": [
+    "words/tea_1.jpg"
+  ],
+  "水": [
+    "words/water_1.jpg"
+  ],
+  "飞机": [
+    "words/plane_1.jpg"
+  ],
+  "鱼": [
+    "words/fish_1.jpg"
+  ],
+  "米饭": [
+    "words/rice_1.jpg"
+  ],
+  "衣服": [
+    "words/clothes_1.jpg"
+  ],
+  "椅子": [
+    "words/chair_1.jpg"
+  ],
+  "出租车": [
+    "words/taxi_1.jpg"
+  ],
+  "商店": [
+    "words/shop_1.jpg"
+  ],
+  "医院": [
+    "words/hospital_1.jpg"
+  ],
+  "天气": [
+    "words/weather_1.jpg"
+  ],
+  "钱": [
+    "words/money_1.jpg"
+  ],
+  "妈妈": [
+    "words/mom_1.jpg",
+    "words/mom_2.jpg"
+  ],
+  "听": [
+    "words/listen_1.jpg"
+  ],
+  "下雨": [
+    "words/rain_1.jpg"
+  ],
+  "中国": [
+    "words/china_1.jpg"
+  ],
+  "买": [
+    "words/buy_1.jpg"
+  ],
+  "医生": [
+    "words/doctor_1.jpg"
+  ],
+  "吃": [
+    "words/eat_1.jpg"
+  ],
+  "喝": [
+    "words/drink_1.jpg"
+  ],
+  "坐": [
+    "words/sit_1.jpg"
+  ],
+  "学校": [
+    "words/school_1.jpg"
+  ],
+  "学生": [
+    "words/student_1.jpg"
+  ],
+  "家": [
+    "words/home_1.jpg"
+  ],
+  "工作": [
+    "words/work_1.jpg"
+  ],
+  "打电话": [
+    "words/call_1.jpg"
+  ],
+  "杯子": [
+    "words/cup_1.jpg"
+  ],
+  "水果": [
+    "words/fruit_1.jpg"
+  ],
+  "点": [
+    "words/clock_1.jpg"
+  ],
+  "热": [
+    "words/hot_1.jpg"
+  ],
+  "电视": [
+    "words/tv_1.jpg"
+  ],
+  "看": [
+    "words/watch_1.jpg"
+  ],
+  "睡觉": [
+    "words/sleep_1.jpg"
+  ],
+  "老师": [
+    "words/teacher_1.jpg"
+  ],
+  "菜": [
+    "words/veg_1.jpg"
+  ],
+  "读": [
+    "words/read_1.jpg"
+  ]
+}
