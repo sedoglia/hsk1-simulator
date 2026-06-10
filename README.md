@@ -321,7 +321,7 @@ words that are not in the official 150 (or the explicitly whitelisted morphemes)
 
 ## License
 
-**Code**: MIT — see [LICENSE](LICENSE) *(to be added)*.
+**Code**: MIT — see [LICENSE](LICENSE).
 
 **Photos in `assets/words/`**: CC0 or CC-BY, per `data/image_credits.json`.
 

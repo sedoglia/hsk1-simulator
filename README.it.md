@@ -331,7 +331,7 @@ cinese che non è nelle 150 ufficiali (o nei morfemi esplicitamente ammessi).
 
 ## Licenza
 
-**Codice**: MIT — vedi [LICENSE](LICENSE) *(da aggiungere)*.
+**Codice**: MIT — vedi [LICENSE](LICENSE).
 
 **Foto in `assets/words/`**: CC0 o CC-BY, vedi `data/image_credits.json` per le attribuzioni.
 
