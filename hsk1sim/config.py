@@ -6,7 +6,17 @@ import os
 PKG_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(PKG_DIR, "data")
 ASSET_DIR = os.path.join(PKG_DIR, "assets")
-APPDATA_DIR = os.path.join(os.path.dirname(PKG_DIR), "userdata")
+
+# Quando il programma gira come EXE frozen (PyInstaller) usiamo %APPDATA% per i
+# dati utente, in modo che la cache audio e il DB storico sopravvivano ai
+# successivi aggiornamenti dell'EXE e non finiscano nella cartella temporanea.
+if getattr(__import__("sys"), "frozen", False):
+    APPDATA_DIR = os.path.join(
+        os.environ.get("APPDATA", os.path.expanduser("~")), "HSK1-Simulator"
+    )
+else:
+    APPDATA_DIR = os.path.join(os.path.dirname(PKG_DIR), "userdata")
+
 CACHE_DIR = os.path.join(APPDATA_DIR, "audio_cache")
 DB_PATH = os.path.join(APPDATA_DIR, "history.db")
 
