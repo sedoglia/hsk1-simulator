@@ -1,142 +1,188 @@
-# Simulatore Esame HSK1 · HSK1 Exam Simulator
+# HSK1 Exam Simulator · Simulatore d'esame HSK1
 
-Applicazione desktop in Python con interfaccia grafica **bilingue (Italiano / Inglese)**
-che simula in modo fedele l'esame di certificazione di cinese **HSK livello 1**: due sezioni
-(Ascolto + Lettura), 40 domande generate in modo **casuale** ad ogni esecuzione, sintesi
-vocale del cinese, valutazione finale in stile esame reale e **storico** dei progressi.
+A bilingual **Python / Tkinter** desktop application that faithfully replicates the official
+**HSK Level 1** Chinese proficiency exam (Hanban / Center for Language Education and
+Cooperation syllabus).  
+40 randomly-generated questions every run · Listening + Reading · Neural TTS · Real photos ·
+Score 200 · Pass ≥ 120.
 
-*A bilingual (Italian/English) Python desktop app that faithfully simulates the official
-**HSK Level 1** Chinese exam: Listening + Reading, 40 randomly generated questions each run,
-Chinese text-to-speech, real exam-style scoring, and a progress history.*
-
----
-
-## 🇮🇹 Italiano
-
-### Caratteristiche
-- **Struttura fedele all'esame ufficiale** (verificata sul **syllabus ufficiale 考试大纲 一级**,
-  sul **样卷** del 教育部中外语言交流合作中心 e sul foglio **H10901**):
-  40 domande (20 Ascolto + 20 Lettura), 4 parti per sezione. Tutte le domande riportano il **pinyin**,
-  come nell'esame reale.
-  - *Ascolto*: 1) frase+immagine Vero/Falso · 2) scelta tra 3 immagini (A/B/C) ·
-    3) **abbinamento** dialogo→immagine (banco di 6, A-F) · 4) enunciato+domanda→risposta.
-    L'audio si riproduce **due volte**, come nell'esame.
-  - *Lettura*: 1) parola+immagine Vero/Falso · 2) **abbinamento** frase→immagine (banco di 6) ·
-    3) **abbinamento** domanda→risposta (banco di 6) · 4) **abbinamento** completamento (banco di 6 parole).
-- **Punteggio reale**: Ascolto /100 + Lettura /100 = /200. **Sufficienza 120/200**.
-- **Domande casuali**: ogni test è diverso, con distrattori coerenti pescati dal vocabolario.
-- **Sintesi vocale ibrida**: voce online di alta qualità (`edge-tts`, Microsoft Neural zh-CN)
-  con **fallback offline** automatico (`pyttsx3` / voci di Windows) se manca la connessione.
-- **Immagini d'esame chiare e varie**: scene fotografiche curate + foto con licenza **CC**
-  (scaricate da Openverse, vedi `data/image_credits.json`), **più immagini per concetto** scelte
-  a caso → ripetendo il test compaiono figure diverse. Dentro una domanda le opzioni sono sempre
-  tutte foto (mai mix foto/emoji). Fallback emoji solo per concetti astratti.
-- **Domande sempre diverse**: frasi e mini-dialoghi delle parti illustrate sono generati da
-  modelli sui concetti delle 150 parole → varietà altissima (≈180 frasi/dialoghi distinti su
-  40 esami) mantenendo solo vocabolario ufficiale.
-- **Svolgimento come l'esame reale**: una **parte intera per schermata** (5 quesiti); le parti ad
-  abbinamento (Ascolto P3, Lettura P2/P3/P4) mostrano un **unico banco di 6 opzioni A–F** a cui
-  abbinare i 5 quesiti, esattamente come nel foglio ufficiale.
-- **Storico e progressi**: ogni tentativo è salvato in SQLite con **data/ora e dettaglio per-parte**;
-  tabella (con durata), grafico con soglia 120, e pulsanti per **eliminare un singolo esito** o
-  **azzerare tutto** (anche "elimina questo risultato" nella pagina dei risultati).
-- **Interfaccia IT/EN** commutabile al volo, **timer per sezione** (15 min Ascolto, 17 min Lettura, +3 min foglio risposte),
-  **revisione delle risposte** con caratteri, pinyin, traduzione e riascolto dell'audio.
-- **Impostazioni**: timer rigido on/off, mostra/nascondi pinyin, prova della voce.
-
-### Requisiti
-- Windows (testato su Windows 11, Python 3.14).
-- Connessione internet **consigliata** per la voce di alta qualità (non obbligatoria).
-
-### Installazione ed avvio
-```powershell
-pip install -r requirements.txt
-python run.py
-```
-
-Il vocabolario è già generato in `hsk1sim/data/vocab_hsk1.json`. Per rigenerarlo:
-```powershell
-python build_vocab.py
-```
-
-### Test automatici
-La suite verifica che gli esami generati rispettino la struttura **ufficiale** HSK1
-(riferimento: syllabus 考试大纲 一级 + 样卷, [chinesetest.cn](https://www.chinesetest.cn/HSK/1)):
-40 quesiti, 4+4 parti da 5, punteggio 100/100/200, soglia 120, tempi (15 / +3 / 17 min),
-tipologie per parte, banco di 6 nelle parti ad abbinamento, **uso delle sole 150 parole
-ufficiali**, casualità e copertura grammaticale.
-```powershell
-python -m unittest discover -s tests -v
-```
-
-### Materiali ufficiali di riferimento
-Nella cartella `official_exams/` sono presenti i 5 esami ufficiali HSK1 (H10901, H10902,
-H11003, H11004, H11005) in **PDF + MP3 + soluzioni**, usati per allineare struttura, tempi e
-tipologie di domanda all'esame reale Hanban/Istituto Confucio.
-
-### Nota sul vocabolario
-Per default il test usa **solo le 150 parole del syllabus ufficiale HSK1** (file
-`hsk1sim/data/official_150.json`), come da esame reale. Il dataset completo contiene ~295 voci
-(le 150 ufficiali + aggiunte comuni HSK 3.0); impostando `OFFICIAL_150_ONLY = False` in
-`hsk1sim/config.py` si usa il set esteso. Le immagini si possono ampliare con `python fetch_images.py`
-(scarica foto CC) e si può verificare il rispetto delle 150 con `python validate_banks.py`.
-Tutte le voci hanno pinyin, traduzione IT/EN ed emoji
-dove ha senso.
-
-### Esempi 例如
-Come nel foglio d'esame ufficiale, all'inizio di ogni parte viene mostrato un **esempio svolto**
-(例如) già risolto. Si può disattivare dalle Impostazioni.
+Un'applicazione desktop Python con GUI bilingue che simula fedelmente l'esame di
+certificazione HSK di livello 1. Test completamente diverso a ogni esecuzione.
 
 ---
 
 ## 🇬🇧 English
 
-### Features
-- **Faithful exam structure**: 40 questions (20 Listening + 20 Reading), 4 parts each section.
-  - *Listening*: 1) sentence+picture True/False · 2) sentence→picture · 3) dialogue→picture ·
-    4) statement+question→answer. Audio can be played **twice**, like the real exam.
-  - *Reading*: 1) picture+word True/False · 2) sentence→picture · 3) match question/answer ·
-    4) fill in the missing word.
-- **Real scoring**: Listening /100 + Reading /100 = /200. **Pass mark 120/200**.
-- **Randomized questions**: every test differs, with coherent distractors from the vocabulary.
-- **Hybrid TTS**: high-quality online voice (`edge-tts`, Microsoft Neural zh-CN) with automatic
-  **offline fallback** (`pyttsx3` / Windows voices) when offline.
-- **Clear exam pictures**: purpose-made photographic scenes tied to the full sentence; emoji
-  fallback only for abstract concepts or extended-vocabulary entries not yet illustrated.
-- **History & progress**: every attempt saved to a local SQLite database, with a table and a
-  score-trend chart (pass-line at 120).
-- **Switchable IT/EN UI**, **per-section timer** (15 min Listening, 17 min Reading, +3 min answer sheet),
-  **answer review** with characters, pinyin, translation and audio replay.
-- **Settings**: strict timer on/off, show/hide pinyin, voice test.
+### What it does
+This simulator reproduces all 8 question types of the official HSK1 paper, verified against
+the 考试大纲 (official syllabus), the 样卷 (sample paper) published by CLEC, and the real
+exam papers H10901–H11005.
 
-### Requirements & run
+| | Listening 听力 | Reading 阅读 |
+|---|---|---|
+| **Part 1** | Short phrase → picture True/False | Word + picture True/False |
+| **Part 2** | Sentence → pick 1 from 3 pictures | Sentence → pick 1 from 6 pictures (A–F) |
+| **Part 3** | Dialogue → pick 1 from 6 pictures (A–F) | Question → match answer from 6 (A–F) |
+| **Part 4** | Statement + question → pick answer | Complete the sentence (word bank of 6) |
+
+- **Timing**: Listening ~15 min · +3 min answer sheet · Reading 17 min · Total ~40 min
+- **Scoring**: Listening /100 + Reading /100 = **/200** · **Pass ≥ 120**
+- **Audio played twice** per question (Listening), just like the real exam
+- **Pinyin** shown on all questions (official exam format)
+- **Worked example** (例如) at the start of each part
+
+### Key features
+- **Faithful exam layout**: one full part (5 questions) per screen; matching parts show a shared
+  A–F bank, exactly like the official paper.
+- **Always different**: questions, images and dialogues are generated fresh each run from a bank
+  of 123 sentences, 64 dialogues and 64 grammar items — all strictly HSK1 vocabulary.
+- **Neural TTS**: `edge-tts` (Microsoft Xiaoxiao Neural voice, zh-CN) with automatic offline
+  fallback (`pyttsx3`). Speech rate adapts to sentence length so longer phrases are easier to follow.
+- **Real photos**: 100+ CC-licensed photos (Openverse) + 32 curated scene pictures. Every
+  picturable concept has ≥ 2 different photos, so repeated tests show different images.
+  All image credits are logged in `data/image_credits.json`.
+- **Official vocabulary**: 150 words from the official HSK1 syllabus
+  (`data/official_150.json`), extended set of ~295 words available via config.
+- **History & progress**: every attempt saved in SQLite with timestamp, per-part breakdown,
+  duration. Score-trend chart with pass-line at 120. Delete individual results or clear all.
+- **Bilingual UI** (Italian / English): toggle on the fly without restarting.
+- **31 automated tests** covering exam structure, timing, image consistency, grammar bank
+  integrity, vocabulary conformity and variety across runs.
+
+### Requirements
+- **Windows** (tested on Windows 11, Python 3.14 — Python 3.10+ should work)
+- Internet connection **recommended** for high-quality TTS (not required — offline fallback works)
+
+### Installation
 ```powershell
 pip install -r requirements.txt
 python run.py
 ```
 
----
-
-## Struttura del progetto / Project layout
+### Run tests
+```powershell
+python -m unittest discover -s tests -v
 ```
-run.py                 # avvio / launcher
-build_vocab.py         # generatore del vocabolario / vocabulary builder
-test_gui.py            # smoke test della GUI / GUI smoke test
+
+### Project layout
+```
+run.py                    # launcher
 requirements.txt
 hsk1sim/
-  config.py            # costanti e percorsi / constants & paths
-  i18n.py              # stringhe IT/EN / bilingual strings
-  tts.py               # TTS ibrido / hybrid TTS
-  audio.py             # riproduzione audio (Windows MCI) / audio playback
-  emoji_render.py      # scene/emoji -> immagini Tk / scene/emoji to Tk images
-  visual_catalog.py    # collegamento frasi/parole -> scene / visual scene catalog
-  assets/scenes/       # immagini locali generate per l'esame / generated local exam pictures
-  db.py                # storico SQLite / SQLite history
-  question_gen.py      # generatori delle 8 parti / question generators
-  exam.py              # modello d'esame e punteggio / exam model & scoring
-  data/                # vocab_hsk1.json, sentences.json, dialogues.json
-  ui/                  # schermate Tkinter / Tkinter screens
-userdata/              # generata a runtime: history.db + cache audio
+  config.py               # paths, exam constants
+  i18n.py                 # bilingual strings (IT/EN)
+  tts.py                  # hybrid TTS (edge-tts + pyttsx3 fallback)
+  audio.py                # Windows MCI audio player
+  emoji_render.py         # photo/emoji → Tkinter PhotoImage
+  visual_catalog.py       # sentence/word → image path mapping
+  exam.py                 # exam model, scoring, per-part details
+  question_gen.py         # generators for all 8 question types
+  db.py                   # SQLite history (save, delete, clear, stats)
+  assets/
+    scenes/               # 32 curated exam scene photos
+    words/                # 70+ CC-licensed concept photos
+  data/
+    vocab_hsk1.json       # 295 HSK1 words (hanzi, pinyin, IT, EN, emoji, category)
+    official_150.json     # the 150 official HSK1 words
+    sentences.json        # 123 natural HSK1 sentences (keyed to image concepts)
+    dialogues.json        # 64 Q&A dialogue pairs
+    grammar.json          # 64 fill-in-the-blank grammar items
+    word_images.json      # concept → photo file list
+    image_credits.json    # license / attribution for CC photos
+  ui/
+    app.py                # main window, screen routing, language toggle
+    welcome.py            # home screen
+    exam_view.py          # exam UI (per-part, A–F bank, audio controls)
+    results.py            # score screen + answer review
+    history.py            # history table + trend chart
+    settings_view.py      # settings (timer, pinyin, voice test)
+    widgets.py            # shared theme, colors, button helper
+tests/
+  test_exam_structure.py  # 19 structure/scoring/timing/randomness tests
+  test_images.py          # 9 image coverage/consistency/variety tests
+  test_audio.py           # 3 audio sequence/cancellation tests
+userdata/                 # created at runtime: history.db + audio cache
 ```
 
-I dati utente (database e cache audio) vengono creati automaticamente in `userdata/`.
+### Notes
+- **Official exams**: the `official_exams/` folder (not in this repo) can hold the Hanban
+  PDF + MP3 papers (H10901–H11005) for reference. They are excluded from the repo because
+  of copyright.
+- **Extending vocabulary**: run `python build_vocab.py` to regenerate `vocab_hsk1.json`.
+  Set `OFFICIAL_150_ONLY = False` in `config.py` to enable the full ~295-word set.
+- **Adding images**: run `python fetch_images.py` to download more CC photos from Openverse.
+- **Validating HSK1 conformity**: run `python validate_banks.py` to check that all sentences
+  and dialogues use only official HSK1 words.
+
+---
+
+## 🇮🇹 Italiano
+
+### Cosa fa
+Questo simulatore riproduce tutti e 8 i tipi di quesito dell'esame ufficiale HSK1, verificati
+sul 考试大纲 (syllabus ufficiale), sul 样卷 (prova campione del CLEC) e sugli esami reali
+H10901–H11005.
+
+| | Ascolto 听力 | Lettura 阅读 |
+|---|---|---|
+| **Parte 1** | Frase breve → immagine Vero/Falso | Parola + immagine Vero/Falso |
+| **Parte 2** | Frase → scegli 1 tra 3 immagini | Frase → scegli 1 tra 6 immagini (A–F) |
+| **Parte 3** | Dialogo → scegli 1 tra 6 immagini (A–F) | Domanda → abbina risposta tra 6 (A–F) |
+| **Parte 4** | Enunciato + domanda → scegli risposta | Completa la frase (banco 6 parole) |
+
+- **Tempi**: Ascolto ~15 min · +3 min scheda risposte · Lettura 17 min · Totale ~40 min
+- **Punteggio**: Ascolto /100 + Lettura /100 = **/200** · **Sufficienza ≥ 120**
+- **Audio riprodotto due volte** (Ascolto), come nell'esame reale
+- **Pinyin** su tutte le domande (formato ufficiale)
+- **Esempio svolto** (例如) all'inizio di ogni parte
+
+### Caratteristiche principali
+- **Layout fedele**: una parte intera (5 quesiti) per schermata; le parti ad abbinamento mostrano
+  un banco unico A–F, esattamente come il foglio ufficiale.
+- **Sempre diverso**: domande, immagini e dialoghi generati ad ogni esecuzione da una banca di
+  123 frasi, 64 dialoghi e 64 item grammaticali — tutto strettamente vocabolario HSK1.
+- **TTS neurale**: `edge-tts` (voce Microsoft Xiaoxiao Neural, zh-CN) con fallback offline
+  automatico (`pyttsx3`). La velocità si adatta alla lunghezza della frase.
+- **Foto reali**: 100+ foto con licenza CC (Openverse) + 32 scene curate. Ogni concetto
+  illustrabile ha ≥ 2 foto diverse → test ripetuti mostrano immagini diverse.
+  Crediti in `data/image_credits.json`.
+- **Vocabolario ufficiale**: 150 parole del syllabus HSK1 ufficiale (`data/official_150.json`),
+  set esteso di ~295 voci disponibile via config.
+- **Storico e progressi**: ogni tentativo salvato in SQLite con data/ora e dettaglio per-parte,
+  grafico con soglia 120, pulsanti per eliminare singoli esiti o azzerare tutto.
+- **UI IT/EN** commutabile al volo.
+- **31 test automatici** su struttura, punteggio, tempi, immagini, grammatica e varietà.
+
+### Requisiti
+- **Windows** (testato su Windows 11, Python 3.14)
+- Connessione internet **consigliata** per TTS di alta qualità (non obbligatoria)
+
+### Installazione e avvio
+```powershell
+pip install -r requirements.txt
+python run.py
+```
+
+### Test automatici
+```powershell
+python -m unittest discover -s tests -v
+```
+
+---
+
+## Screenshots
+
+| Home | Ascolto P1 | Abbinamento (banco A–F) | Risultati |
+|---|---|---|---|
+| UI bilingue | Frase + foto + ✓/✗ | 6 opzioni condivise | Punteggi + revisione |
+
+---
+
+## License
+
+Code: **MIT**.  
+Photos in `assets/words/`: **CC0 / CC-BY** (see `data/image_credits.json` for individual
+attributions).  
+Photos in `assets/scenes/`: curated for this project.  
+Official Hanban exam papers (not included): © Hanban / Center for Language Education and
+Cooperation.
